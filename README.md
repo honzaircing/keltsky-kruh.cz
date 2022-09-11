@@ -1,0 +1,1 @@
+# keltsky-kruh.cz
