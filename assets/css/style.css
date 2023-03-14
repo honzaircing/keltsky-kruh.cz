@@ -16,7 +16,7 @@ body {
 }
 
 a {
-  color: #23AD21;
+  color: #23ad21;
   text-decoration: none;
   transition: 0.5s;
 }
@@ -73,7 +73,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #23AD21;
+  background: #23ad21;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -110,7 +110,7 @@ h6 {
   display: block;
   width: 60px;
   height: 5px;
-  background: #23AD21;
+  background: #23ad21;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -156,16 +156,19 @@ h6 {
 }
 
 #header #logo h1 {
-  font-size: 36px;
+  font-size: 35px;
   margin: 0;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
-  letter-spacing: 3px;
+  letter-spacing: 2px;
   text-transform: uppercase;
+  padding-top: 15px;
 }
 
 #header #logo h1 span {
-  color: #23AD21;
+  color: #23ad21;
+  padding-left: 15px;
+  margin-top: 135px;
 }
 
 #header #logo h1 a,
@@ -173,15 +176,16 @@ h6 {
   color: #fff;
 }
 
-#header #logo img {
+#header #logo h1 a img {
   padding: 0;
   margin: 0;
-  max-height: 40px;
+  padding-top: 15px;
+  max-height: 115px;
 }
 
 @media (max-width: 992px) {
-  #header #logo img {
-    max-height: 30px;
+  #header #logo h1 a img {
+    max-height: 45px;
   }
 }
 
@@ -190,11 +194,11 @@ h6 {
 --------------------------------------------------------------*/
 .buy-tickets {
   color: #fff;
-  background: #23AD21;
+  background: #23ad21;
   padding: 7px 22px;
   margin: 0 0 0 15px;
   border-radius: 50px;
-  border: 2px solid #23AD21;
+  border: 2px solid #23ad21;
   transition: all ease-in-out 0.3s;
   font-weight: 500;
   line-height: 1;
@@ -239,7 +243,7 @@ h6 {
   position: relative;
 }
 
-.navbar>ul>li {
+.navbar > ul > li {
   white-space: nowrap;
   padding: 10px 0 10px 12px;
 }
@@ -266,20 +270,20 @@ h6 {
   margin-left: 5px;
 }
 
-.navbar>ul>li>a:before {
+.navbar > ul > li > a:before {
   content: "";
   position: absolute;
   width: 0;
   height: 2px;
   bottom: -6px;
   left: 0;
-  background-color: #23AD21;
+  background-color: #23ad21;
   visibility: hidden;
   transition: all 0.3s ease-in-out 0s;
 }
 
 .navbar a:hover:before,
-.navbar li:hover>a:before,
+.navbar li:hover > a:before,
 .navbar .active:before {
   visibility: visible;
   width: 100%;
@@ -288,7 +292,7 @@ h6 {
 .navbar a:hover,
 .navbar .active,
 .navbar .active:focus,
-.navbar li:hover>a {
+.navbar li:hover > a {
   color: #fff;
 }
 
@@ -324,11 +328,11 @@ h6 {
 
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
-.navbar .dropdown ul li:hover>a {
-  color: #23AD21;
+.navbar .dropdown ul li:hover > a {
+  color: #23ad21;
 }
 
-.navbar .dropdown:hover>ul {
+.navbar .dropdown:hover > ul {
   opacity: 1;
   top: 100%;
   visibility: visible;
@@ -340,7 +344,7 @@ h6 {
   visibility: hidden;
 }
 
-.navbar .dropdown .dropdown:hover>ul {
+.navbar .dropdown .dropdown:hover > ul {
   opacity: 1;
   top: 0;
   left: 100%;
@@ -352,7 +356,7 @@ h6 {
     left: -90%;
   }
 
-  .navbar .dropdown .dropdown:hover>ul {
+  .navbar .dropdown .dropdown:hover > ul {
     left: -100%;
   }
 }
@@ -410,12 +414,12 @@ h6 {
   transition: 0.3s;
 }
 
-.navbar-mobile>ul>li {
+.navbar-mobile > ul > li {
   padding: 0;
 }
 
 .navbar-mobile a:hover:before,
-.navbar-mobile li:hover>a:before,
+.navbar-mobile li:hover > a:before,
 .navbar-mobile .active:before {
   visibility: hidden;
 }
@@ -429,8 +433,8 @@ h6 {
 
 .navbar-mobile a:hover,
 .navbar-mobile .active,
-.navbar-mobile li:hover>a {
-  color: #23AD21;
+.navbar-mobile li:hover > a {
+  color: #23ad21;
 }
 
 .navbar-mobile .getstarted,
@@ -464,11 +468,11 @@ h6 {
 
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
-.navbar-mobile .dropdown ul li:hover>a {
-  color: #23AD21;
+.navbar-mobile .dropdown ul li:hover > a {
+  color: #23ad21;
 }
 
-.navbar-mobile .dropdown>.dropdown-active {
+.navbar-mobile .dropdown > .dropdown-active {
   display: block;
 }
 
@@ -478,7 +482,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url(../img/hero-bg.jpg) top center;
+  background: url(../img/bg1.jpg) top center;
   background-size: cover;
   overflow: hidden;
   position: relative;
@@ -529,7 +533,7 @@ h6 {
 }
 
 #hero h1 span {
-  color: #23AD21;
+  color: #23ad21;
 }
 
 @media (max-width: 991px) {
@@ -553,7 +557,7 @@ h6 {
 #hero .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#23AD21 50%, rgba(101, 111, 150, 0.15) 52%);
+  background: radial-gradient(#23ad21 50%, rgba(101, 111, 150, 0.15) 52%);
   border-radius: 50%;
   display: block;
   position: relative;
@@ -594,7 +598,7 @@ h6 {
 }
 
 #hero .play-btn:hover::after {
-  border-left: 15px solid #23AD21;
+  border-left: 15px solid #23ad21;
   transform: scale(20);
 }
 
@@ -628,11 +632,11 @@ h6 {
   margin: 10px;
   color: #fff;
   animation-delay: 0.8s;
-  border: 2px solid #23AD21;
+  border: 2px solid #23ad21;
 }
 
 #hero .about-btn:hover {
-  background: #23AD21;
+  background: #23ad21;
   color: #fff;
 }
 
@@ -749,7 +753,7 @@ h6 {
 }
 
 #speakers .speaker .details a:hover {
-  color: #23AD21;
+  color: #23ad21;
 }
 
 #speakers .speaker:hover .details {
@@ -786,7 +790,7 @@ h6 {
 }
 
 #speakers-details .details .social a:hover {
-  background: #23AD21;
+  background: #23ad21;
   color: #fff;
 }
 
@@ -849,7 +853,7 @@ h6 {
 }
 
 #schedule .nav-tabs a.active {
-  background-color: #23AD21;
+  background-color: #23ad21;
   color: #fff;
 }
 
@@ -1029,7 +1033,7 @@ h6 {
 }
 
 #hotels a:hover {
-  color: #23AD21;
+  color: #23ad21;
 }
 
 #hotels .stars {
@@ -1067,11 +1071,11 @@ h6 {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #23AD21;
+  border: 1px solid #23ad21;
 }
 
 #gallery .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #23AD21;
+  background-color: #23ad21;
 }
 
 #gallery .swiper-slide-active {
@@ -1084,7 +1088,7 @@ h6 {
   }
 
   #gallery .swiper-slide-active {
-    border: 5px solid #23AD21;
+    border: 5px solid #23ad21;
     padding: 4px;
     background: #fff;
     z-index: 1;
@@ -1147,7 +1151,7 @@ h6 {
 #faq .faq-list .question {
   display: block;
   position: relative;
-  font-family: #23AD21;
+  font-family: #23ad21;
   font-size: 18px;
   line-height: 24px;
   font-weight: 400;
@@ -1178,7 +1182,7 @@ h6 {
 }
 
 #faq .faq-list .collapsed:hover {
-  color: #23AD21;
+  color: #23ad21;
 }
 
 #faq .faq-list .collapsed .icon-show {
@@ -1244,7 +1248,7 @@ h6 {
   border: 0;
   padding: 9px 25px;
   cursor: pointer;
-  background: #23AD21;
+  background: #23ad21;
   color: #fff;
   transition: all 0.3s ease;
   outline: none;
@@ -1309,7 +1313,7 @@ h6 {
   border-radius: 50px;
   padding: 10px 40px;
   transition: all 0.2s;
-  background-color: #23AD21;
+  background-color: #23ad21;
   border: 0;
   color: #fff;
 }
@@ -1328,7 +1332,7 @@ h6 {
   border-radius: 50px;
   padding: 10px 40px;
   transition: all 0.2s;
-  background-color: #23AD21;
+  background-color: #23ad21;
   border: 0;
   color: #fff;
 }
@@ -1353,7 +1357,7 @@ h6 {
   font-size: 48px;
   display: inline-block;
   margin-bottom: 10px;
-  color: #23AD21;
+  color: #23ad21;
 }
 
 #contact .contact-info address,
@@ -1375,7 +1379,7 @@ h6 {
 }
 
 #contact .contact-info a:hover {
-  color: #23AD21;
+  color: #23ad21;
 }
 
 #contact .contact-address,
@@ -1385,7 +1389,6 @@ h6 {
 }
 
 @media (min-width: 768px) {
-
   #contact .contact-address,
   #contact .contact-phone,
   #contact .contact-email {
@@ -1409,7 +1412,7 @@ h6 {
   font-weight: 600;
 }
 
-#contact .php-email-form .error-message br+br {
+#contact .php-email-form .error-message br + br {
   margin-top: 25px;
 }
 
@@ -1450,7 +1453,7 @@ h6 {
 
 #contact .php-email-form input:focus,
 #contact .php-email-form textarea:focus {
-  border-color: #23AD21;
+  border-color: #23ad21;
 }
 
 #contact .php-email-form input {
@@ -1461,8 +1464,8 @@ h6 {
   padding: 12px 15px;
 }
 
-#contact .php-email-form button[type=submit] {
-  background: #23AD21;
+#contact .php-email-form button[type="submit"] {
+  background: #23ad21;
   border: 0;
   padding: 10px 40px;
   color: #fff;
@@ -1471,7 +1474,7 @@ h6 {
   cursor: pointer;
 }
 
-#contact .php-email-form button[type=submit]:hover {
+#contact .php-email-form button[type="submit"]:hover {
   background: #e0072f;
 }
 
@@ -1548,7 +1551,7 @@ h6 {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #23AD21;
+  background: #23ad21;
   color: #fff;
 }
 
@@ -1559,7 +1562,7 @@ h6 {
   text-transform: uppercase;
   position: relative;
   padding-bottom: 12px;
-  border-bottom: 2px solid #23AD21;
+  border-bottom: 2px solid #23ad21;
 }
 
 #footer .footer-top .footer-links {
@@ -1574,7 +1577,7 @@ h6 {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 5px;
-  color: #23AD21;
+  color: #23ad21;
   font-size: 18px;
 }
 
@@ -1592,7 +1595,7 @@ h6 {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #23AD21;
+  color: #23ad21;
 }
 
 #footer .footer-top .footer-contact {
@@ -1607,14 +1610,14 @@ h6 {
   margin-bottom: 30px;
 }
 
-#footer .footer-top .footer-newsletter input[type=email] {
+#footer .footer-top .footer-newsletter input[type="email"] {
   border: 0;
   padding: 6px 8px;
   width: 65%;
 }
 
-#footer .footer-top .footer-newsletter input[type=submit] {
-  background: #23AD21;
+#footer .footer-top .footer-newsletter input[type="submit"] {
+  background: #23ad21;
   border: 0;
   width: 35%;
   padding: 6px 0;
@@ -1624,7 +1627,7 @@ h6 {
   cursor: pointer;
 }
 
-#footer .footer-top .footer-newsletter input[type=submit]:hover {
+#footer .footer-top .footer-newsletter input[type="submit"]:hover {
   background: #e0072f;
 }
 
