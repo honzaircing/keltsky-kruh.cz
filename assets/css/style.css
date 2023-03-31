@@ -765,22 +765,22 @@ h6 {
   bottom: 0;
 }
 
-#speakers-details {
+#about-info {
   padding: 60px 0;
 }
 
-#speakers-details .details h2 {
+#about-info .details h2 {
   color: #112363;
   font-size: 28px;
   font-weight: 700;
   margin-bottom: 10px;
 }
 
-#speakers-details .details .social {
+#about-info .details .social {
   margin-bottom: 15px;
 }
 
-#speakers-details .details .social a {
+#about-info .details .social a {
   background: #e9edfb;
   color: #112363;
   line-height: 1;
@@ -794,23 +794,23 @@ h6 {
   justify-content: center;
 }
 
-#speakers-details .details .social a:hover {
+#about-info .details .social a:hover {
   background: #23ad21;
   color: #fff;
 }
 
-#speakers-details .details .social a i {
+#about-info .details .social a i {
   font-size: 16px;
   line-height: 0;
 }
 
-#speakers-details .details p {
+#about-info .details p {
   color: #112363;
   font-size: 15px;
   margin-bottom: 10px;
 }
 
-#speakers-details .details ul li {
+#about-info .details ul li {
   color: #112363;
   font-size: 15px;
   margin-bottom: 10px;
