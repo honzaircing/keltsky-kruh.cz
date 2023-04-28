@@ -1,47 +1,47 @@
 <script setup lang="ts">
-import { ref, onMounted, watch } from 'vue'
-import { RouterLink, useRoute } from 'vue-router'
+import { ref, onMounted, watch, type HtmlHTMLAttributes } from "vue";
+import { RouterLink, useRoute } from "vue-router";
 
-const headRef = ref(null) // obtain the reference
-const route = useRoute()
-const page = ref(null)
-const mobilMenu = ref('')
-const mobilMenuActive = ref(false)
+const headRef = ref<any>(); // obtain the reference
+const route = useRoute();
+const page = ref<any>(null);
+const mobilMenu = ref("");
+const mobilMenuActive = ref(false);
 
-const mobilShow = async (isActive) => {
-  mobilMenuActive.value = isActive
-  if (mobilMenuActive.value && mobilMenu.value == '') {
-    mobilMenu.value = 'navbar-mobile'
+const mobilShow = async (isActive: boolean) => {
+  mobilMenuActive.value = isActive;
+  if (mobilMenuActive.value && mobilMenu.value == "") {
+    mobilMenu.value = "navbar-mobile";
   } else {
-    mobilMenu.value = ''
+    mobilMenu.value = "";
   }
-}
+};
 
 watch(
   () => route.path,
   () => {
-    page.value = route.path
-    if (page.value != '/') {
-      headRef.value.classList.add('header-scrolled')
+    page.value = route.path;
+    if (page.value != "/") {
+      headRef.value.classList.add("header-scrolled");
     } else {
-      headRef.value.classList.remove('header-scrolled')
+      headRef.value.classList.remove("header-scrolled");
     }
   }
 ),
   onMounted(() => {
-    var prev = window.pageYOffset
+    var prev = window.pageYOffset;
 
-    window.addEventListener('scroll', () => {
-      var curr = window.pageYOffset
+    window.addEventListener("scroll", () => {
+      var curr = window.pageYOffset;
       if (prev + 5 < curr) {
-        headRef.value.classList.add('header-scrolled')
+        headRef.value.classList.add("header-scrolled");
       }
-      if (curr === 0 && page.value == '/') {
-        headRef.value.classList.remove('header-scrolled')
+      if (curr === 0 && page.value == "/") {
+        headRef.value.classList.remove("header-scrolled");
       }
-      prev = curr
-    })
-  })
+      prev = curr;
+    });
+  });
 </script>
 <template>
   <header id="header" ref="headRef" class="d-flex align-items-center">
