@@ -12,7 +12,10 @@ import { RouterLink, useRoute } from 'vue-router'
         <p class="mb-4 pb-0">
           15. července 2023 - Vodní hrad Budyně nad Ohří
         </p>
-        <RouterLink to="/o-festivalu"><a href="./uvodni-slovo.html" class="about-btn ">Úvodní slovo pořadatele</a></RouterLink>
+       <a class="about-btn"
+        href="https://skotskehry.bzuco.cloud/acs/tickets/cs/tickets/38/#/38"
+        target="_blank"
+        >Vstupenky</a>
       </div>
     </section>
     <!-- End Hero Section -->
@@ -63,6 +66,7 @@ import { RouterLink, useRoute } from 'vue-router'
                                   <div class="social">
                     <a href=""><i class="bi bi-facebook"></i></a>
                   </div>
+                  <RouterLink to="/o-festivalu">Úvodní slovo pořadatele</RouterLink>
                 </div>
               </div>
 
