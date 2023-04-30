@@ -87,6 +87,12 @@ watch(
         </ul>
         <i class="bi bi-list mobile-nav-toggle" @click="mobilShow(true)"></i>
       </nav>
+      <a
+        class="buy-tickets scrollto"
+        href="https://skotskehry.bzuco.cloud/acs/tickets/cs/tickets/38/#/38"
+        target="_blank"
+        >Vstupenky</a
+      >
     </div>
   </header>
 </template>
