@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import Program from "@/components/Program.vue"
+import Ticket from "@/components/Ticket.vue"
 import { RouterLink, useRoute } from 'vue-router'
 </script>
 <template>
@@ -12,10 +13,9 @@ import { RouterLink, useRoute } from 'vue-router'
         <p class="mb-4 pb-0">
           15. července 2023 - Vodní hrad Budyně nad Ohří
         </p>
-       <a class="about-btn"
-        href="https://skotskehry.bzuco.cloud/acs/tickets/cs/tickets/38/#/38"
-        target="_blank"
-        >Vstupenky</a>
+       <RouterLink to="/#buy-tickets"  class="about-btn"
+
+        >Vstupenky</RouterLink>
       </div>
     </section>
     <!-- End Hero Section -->
@@ -75,6 +75,7 @@ import { RouterLink, useRoute } from 'vue-router'
 
         </section>
         <Program />
+        <Ticket />
     </main>
     <!-- End #main -->
 </template>
