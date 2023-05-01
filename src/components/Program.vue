@@ -126,6 +126,20 @@
           </div>
 
           <div class="row schedule-item">
+            <div class="col-md-2"><time>18:30</time></div>
+            <div class="col-md-10">
+              <div class="speaker">
+                <img
+                  src="@/assets/img/speakers/garcia.jpeg"
+                  alt="MICHAL HROMEK CONSORT"
+                />
+              </div>
+              <h4>KATKA GARCIA A PŘÁTELÉ</h4>
+              <p></p>
+            </div>
+          </div>
+
+          <div class="row schedule-item">
             <div class="col-md-2"><time>19:30</time></div>
             <div class="col-md-10">
               <div class="speaker">
