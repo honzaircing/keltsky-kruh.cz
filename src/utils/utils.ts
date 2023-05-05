@@ -1,13 +1,19 @@
 const changeMetaTags = (meta: any) => {
   document.title = `${meta.title} - Keltský kruh - Celtic Circle`;
-  document
-    .querySelector('meta[property="og:title"]')
-    .setAttribute("content", meta["og:title"]);
-  document
-    .querySelector('meta[property="og:description"]')
-    .setAttribute("content", meta["og:description"]);
-  // document.querySelector('meta[name="og:description"]').setAttribute("content", meta['og:description']);
-  // document.querySelector('meta[name="keywords"]').setAttribute("content", meta.keywords);
+
+  const metaTitle = document.querySelector(
+    'meta[property="og:title"]'
+  ) as HTMLInputElement | null;
+  if (metaTitle !== null) {
+    metaTitle.setAttribute("content", meta["og:title"]);
+  }
+
+  const metaDesc = document.querySelector(
+    'meta[property="og:description"]'
+  ) as HTMLInputElement | null;
+  if (metaDesc !== null) {
+    metaDesc.setAttribute("content", meta["og:description"]);
+  }
 };
 
 export { changeMetaTags };
