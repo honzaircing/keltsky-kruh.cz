@@ -34,6 +34,20 @@
             <div class="col-md-10">
               <div class="speaker">
                 <img
+                  src="@/assets/img/speakers/andy_wills.jpeg"
+                  alt="ANDY WILLS"
+                />
+              </div>
+              <h4>ANDY WILLS (Scotland)</h4>
+              <p></p>
+            </div>
+          </div>
+
+          <div class="row schedule-item">
+            <div class="col-md-2"><time>14:30</time></div>
+            <div class="col-md-10">
+              <div class="speaker">
+                <img
                   src="@/assets/img/speakers/bss.jpeg"
                   alt="MICHAL HROMEK CONSORT"
                 />
@@ -44,7 +58,7 @@
           </div>
 
           <div class="row schedule-item">
-            <div class="col-md-2"><time>14:00</time></div>
+            <div class="col-md-2"><time>15:00</time></div>
             <div class="col-md-10">
               <div class="speaker">
                 <img src="@/assets/img/speakers/kukulin.jpg" alt="KUKULÍN" />
@@ -59,7 +73,7 @@
           </div>
 
           <div class="row schedule-item">
-            <div class="col-md-2"><time>15:00</time></div>
+            <div class="col-md-2"><time>16:00</time></div>
             <div class="col-md-10">
               <div class="speaker">
                 <img
@@ -69,20 +83,6 @@
               </div>
               <h4>HARFOVÉ DUO</h4>
               <p>Vendy vand der Meijs, Jana Maffet Šouflová</p>
-            </div>
-          </div>
-
-          <div class="row schedule-item">
-            <div class="col-md-2"><time>15:30</time></div>
-            <div class="col-md-10">
-              <div class="speaker">
-                <img
-                  src="@/assets/img/speakers/andy_wills.jpeg"
-                  alt="ANDY WILLS"
-                />
-              </div>
-              <h4>ANDY WILLS (Scotland)</h4>
-              <p></p>
             </div>
           </div>
 

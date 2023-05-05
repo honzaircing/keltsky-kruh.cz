@@ -6,7 +6,10 @@ import "bootstrap/dist/js/bootstrap.js";
 import AOS from "aos";
 import "aos/dist/aos.css";
 
+import VueScrollTo from "vue-scrollto";
+
 import { createApp } from "vue";
+import { renderToString } from "vue/server-renderer";
 import { createPinia } from "pinia";
 
 import App from "./App.vue";
@@ -18,7 +21,11 @@ const aos: any = AOS.init();
 
 app.use(aos);
 
+app.use(VueScrollTo);
+
 app.use(createPinia());
 app.use(router);
 
 app.mount("#app");
+
+renderToString(app).then((html) => {});

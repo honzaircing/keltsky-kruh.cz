@@ -59,7 +59,7 @@ watch(
         <ul>
           <li>
             <RouterLink
-              to="/#hero"
+              to="/"
               class="nav-link scrollto"
               active-class="active"
               @click="mobilShow(false)"
@@ -68,7 +68,7 @@ watch(
           </li>
           <li>
             <RouterLink
-              to="/#about-info"
+              to="/o-festivalu"
               class="nav-link scrollto"
               active-class="active"
               @click="mobilShow(false)"
@@ -77,7 +77,7 @@ watch(
           </li>
           <li>
             <RouterLink
-              to="/#schedule"
+              to="/program"
               class="nav-link scrollto"
               active-class="active"
               @click="mobilShow(false)"
@@ -87,7 +87,7 @@ watch(
         </ul>
         <i class="bi bi-list mobile-nav-toggle" @click="mobilShow(true)"></i>
       </nav>
-      <RouterLink to="/#buy-tickets" class="buy-tickets scrollto"
+      <RouterLink to="/vstupenky" class="buy-tickets scrollto"
         >Vstupenky</RouterLink
       >
     </div>
