@@ -6,6 +6,8 @@ import "bootstrap/dist/js/bootstrap.js";
 import AOS from "aos";
 import "aos/dist/aos.css";
 
+import VueScrollTo from "vue-scrollto";
+
 import { createApp } from "vue";
 import { createPinia } from "pinia";
 
@@ -17,6 +19,8 @@ const app = createApp(App);
 const aos: any = AOS.init();
 
 app.use(aos);
+
+app.use(VueScrollTo);
 
 app.use(createPinia());
 app.use(router);

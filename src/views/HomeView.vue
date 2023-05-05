@@ -66,7 +66,7 @@ import { RouterLink, useRoute } from 'vue-router'
                                   <div class="social">
                     <a href=""><i class="bi bi-facebook"></i></a>
                   </div>
-                  <RouterLink to="/o-festivalu">Úvodní slovo pořadatele</RouterLink>
+                  <RouterLink to="/o-festivalu-detail">Úvodní slovo pořadatele</RouterLink>
                 </div>
               </div>
 
