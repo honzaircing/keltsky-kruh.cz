@@ -9,6 +9,7 @@ import "aos/dist/aos.css";
 import VueScrollTo from "vue-scrollto";
 
 import { createApp } from "vue";
+import { renderToString } from "vue/server-renderer";
 import { createPinia } from "pinia";
 
 import App from "./App.vue";
@@ -25,4 +26,6 @@ app.use(VueScrollTo);
 app.use(createPinia());
 app.use(router);
 
-app.mount("#app");
+renderToString(app).then((html) => {
+  console.log(html);
+});
