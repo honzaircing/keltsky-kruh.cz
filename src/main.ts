@@ -26,6 +26,6 @@ app.use(VueScrollTo);
 app.use(createPinia());
 app.use(router);
 
-renderToString(app).then((html) => {
-  console.log(html);
-});
+app.mount("#app");
+
+renderToString(app).then((html) => {});

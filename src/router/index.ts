@@ -1,5 +1,6 @@
 import { createRouter, createWebHistory } from "vue-router";
 import HomeView from "../views/HomeView.vue";
+import { changeMetaTags } from "@/utils/utils";
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -11,6 +12,9 @@ const router = createRouter({
       meta: {
         title: "Home",
         scrollTo: "#hero",
+        "og:title": "Festivalu - Keltský kruh",
+        "og:description":
+          "Jedinečný festival keltské hudby a kultury na Vodním hradě Budyně nad Ohří",
       },
     },
     {
@@ -20,6 +24,8 @@ const router = createRouter({
       meta: {
         title: "O Festivalu",
         scrollTo: "#about-info",
+        "og:title": "O Festivalu - Keltský kruh",
+        "og:description": "Kdo na festivalu pracuje",
       },
     },
     {
@@ -28,7 +34,9 @@ const router = createRouter({
       component: () => import("../views/AboutView.vue"),
       meta: {
         title: "O Festivalu",
-        scrollTo: "#schedule",
+        scrollTo: "#about-info",
+        "og:title": "O Festivalu - Keltský kruh",
+        "og:description": "S jakými myšlenkami festival tvoříme",
       },
     },
     {
@@ -38,6 +46,8 @@ const router = createRouter({
       meta: {
         title: "Program",
         scrollTo: "#schedule",
+        "og:title": "Program - Keltský kruh",
+        "og:description": "Program je na 99% hotov",
       },
     },
     {
@@ -47,6 +57,8 @@ const router = createRouter({
       meta: {
         title: "Vstupenky",
         scrollTo: "#buy-tickets",
+        "og:title": "Vstupenky - Keltský kruh",
+        "og:description": "Předprojed vstupenek za zvýhodněnou cenu",
       },
     },
   ],
@@ -58,13 +70,9 @@ const router = createRouter({
 });
 
 router.beforeEach((to, from, next) => {
-  document.title = `${to.meta.title} - Keltský kruh - Celtic Circle`;
-  const tag = document.createElement("meta");
-  tag.setAttribute(
-    "og:title",
-    `${to.meta.title} - Keltský kruh - Celtic Circle`
-  );
-  document.head.appendChild(tag);
+  //document.title = `${to.meta.title} - Keltský kruh - Celtic Circle`;
+  changeMetaTags(to.meta);
+
   next();
 });
 
