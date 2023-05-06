@@ -61,6 +61,17 @@ const router = createRouter({
         "og:description": "Předprojed vstupenek za zvýhodněnou cenu",
       },
     },
+    {
+      path: "/#buy-tickests",
+      name: "vstupenky2",
+      component: HomeView,
+      meta: {
+        title: "Vstupenky",
+        scrollTo: "#buy-tickets",
+        "og:title": "Vstupenky - Keltský kruh",
+        "og:description": "Předprojed vstupenek za zvýhodněnou cenu",
+      },
+    },
   ],
   scrollBehavior(to, from, savedPosition) {
     if (to.meta.scrollTo) {
