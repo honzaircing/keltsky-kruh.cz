@@ -13,7 +13,7 @@ import { RouterLink, useRoute } from 'vue-router'
         <p class="mb-4 pb-0">
           15. července 2023 - Vodní hrad Budyně nad Ohří
         </p>
-       <RouterLink to="/#buy-tickets"  class="about-btn"
+       <RouterLink to="/vstupenky"  class="about-btn"
 
         >Vstupenky</RouterLink>
       </div>
