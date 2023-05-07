@@ -37,12 +37,14 @@
           data-aos="fade-up"
           data-aos-delay="200"
         >
-          <div class="card mb-5 mb-lg-0">
+          <div class="card mb-10 mb-lg-0">
             <div class="card-body">
               <h5 class="card-title text-muted text-uppercase text-center">
                 Na místě
               </h5>
               <h6 class="card-price text-center">500 KČ</h6>
+              <hr />
+              <div class="text-center mb-lg-3">POUZE DO VYPRODÁNÍ</div>
             </div>
           </div>
         </div>
