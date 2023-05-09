@@ -84,6 +84,24 @@ watch(
               >Program</RouterLink
             >
           </li>
+          <li>
+            <RouterLink
+              to="/vystupujici"
+              class="nav-link scrollto"
+              active-class="active"
+              @click="mobilShow(false)"
+              >Vystupující</RouterLink
+            >
+          </li>
+          <li>
+            <RouterLink
+              to="/poradatel"
+              class="nav-link scrollto"
+              active-class="active"
+              @click="mobilShow(false)"
+              >Pořadatel</RouterLink
+            >
+          </li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle" @click="mobilShow(true)"></i>
       </nav>

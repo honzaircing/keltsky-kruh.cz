@@ -1,5 +1,6 @@
 import { createRouter, createWebHistory } from "vue-router";
 import HomeView from "../views/HomeView.vue";
+import PerformesrsDetail from "@/components/PerformersDetail.vue";
 import { changeMetaTags } from "@/utils/utils";
 
 const router = createRouter({
@@ -23,6 +24,17 @@ const router = createRouter({
       component: HomeView,
       meta: {
         title: "O Festivalu",
+        scrollTo: "#about",
+        "og:title": "O Festivalu - Keltský kruh",
+        "og:description": "Kdo na festivalu pracuje",
+      },
+    },
+    {
+      path: "/poradatel",
+      name: "poradatel",
+      component: HomeView,
+      meta: {
+        title: "Pořadatel",
         scrollTo: "#about-info",
         "og:title": "O Festivalu - Keltský kruh",
         "og:description": "Kdo na festivalu pracuje",
@@ -51,6 +63,28 @@ const router = createRouter({
       },
     },
     {
+      path: "/vystupujici",
+      name: "vystupujici",
+      component: HomeView,
+      meta: {
+        title: "Vystupujici",
+        scrollTo: "#speakers",
+        "og:title": "Vystupující - Keltský kruh",
+        "og:description": "Kdo je kdo?",
+      },
+    },
+    {
+      path: "/vystupujici/:performer",
+      name: "vystupujici-detail",
+      component: PerformesrsDetail,
+      meta: {
+        title: "Vystupujici",
+        scrollTo: "#speakers-details",
+        "og:title": "Vystupující - Keltský kruh",
+        "og:description": "Kdo je kdo?",
+      },
+    },
+    {
       path: "/vstupenky",
       name: "vstupenky",
       component: HomeView,
@@ -75,7 +109,7 @@ const router = createRouter({
   ],
   scrollBehavior(to, from, savedPosition) {
     if (to.meta.scrollTo) {
-      return { el: to.meta.scrollTo, top: 15 };
+      return { el: to.meta.scrollTo, top: 20 };
     }
   },
 });
