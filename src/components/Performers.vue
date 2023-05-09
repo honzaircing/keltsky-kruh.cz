@@ -13,7 +13,7 @@ import performers from "@/stores/performers.json";
         <div class="col-lg-4 col-md-6" v-for="performer in performers">
           <div class="speaker" data-aos="fade-up" data-aos-delay="100">
             <img
-              :src="'/src/assets/img/speakers/' + performer.img"
+              :src="'/' + performer.img"
               :alt="performer.slug"
               class="img-fluid"
             />

@@ -24,7 +24,7 @@ const filterPerformer = performers
         <div class="row">
           <div class="col-md-6">
             <img
-              :src="'/src/assets/img/speakers/' + filterPerformer.img"
+              :src="'/' + filterPerformer.img"
               :alt="filterPerformer.slug"
               class="img-fluid"
             />
