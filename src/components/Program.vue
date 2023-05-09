@@ -39,7 +39,11 @@
                 />
               </div>
               <h4>ANDY WILLS (Scotland)</h4>
-              <p></p>
+              <p>
+                Andy Wills, Aneta Fišerová a Saami-Peter Schwott zahrají známé
+                melodie z Irska, Skotska, ale velkým přínosem budou písně a
+                skladby ze shetlandských ostrovů.
+              </p>
             </div>
           </div>
 
@@ -53,7 +57,11 @@
                 />
               </div>
               <h4>VÝUKA IRSKÝCH TANCŮ</h4>
-              <p>Pod vedením Vaška Bernarda zvládneme základ irského tance.</p>
+              <p>
+                PZáměrem této výuky bude, aby tance, které se publikum naučí,
+                mohlo uplatnit v rámci vystoupení některých hudebních skupin na
+                tomto festivalu.
+              </p>
             </div>
           </div>
 
@@ -61,7 +69,7 @@
             <div class="col-md-2"><time>15:00</time></div>
             <div class="col-md-10">
               <div class="speaker">
-                <img src="@/assets/img/speakers/kukulin.jpg" alt="KUKULÍN" />
+                <img src="@/assets/img/speakers/kukulin.jpeg" alt="KUKULÍN" />
               </div>
               <h4>KUKULÍN</h4>
               <p>
@@ -82,7 +90,11 @@
                 />
               </div>
               <h4>HARFOVÉ DUO</h4>
-              <p>Vendy vand der Meijs, Jana Maffet Šouflová</p>
+              <p>
+                Harfové duo složené z Wendy van der Meijs a Jany Maffet
+                Šouflové. Obě nejsou neznámé ve světě tohoto nástroje v naší
+                zemi, neboť jde o dlouhodobé propagátorky keltské harfy.
+              </p>
             </div>
           </div>
 
@@ -107,7 +119,11 @@
                 />
               </div>
               <h4>MICHAL HROMEK CONSORT</h4>
-              <p></p>
+              <p>
+                Tvůrce alba Keltská kytara Michal Hromek hraje s flétnistou
+                Jakubem Klárem a perkusistou Danielem Mikoláškem a další
+                instrumentalisté či zpěvačka
+              </p>
             </div>
           </div>
 
@@ -121,7 +137,11 @@
                 />
               </div>
               <h4>VÝUKA IRSKÝCH TANCŮ</h4>
-              <p>Pod vedením Vaška Bernarda zvládneme základ irského tance.</p>
+              <p>
+                Záměrem této výuky bude, aby tance, které se publikum naučí,
+                mohlo uplatnit v rámci vystoupení některých hudebních skupin na
+                tomto festivalu.
+              </p>
             </div>
           </div>
 
@@ -135,7 +155,11 @@
                 />
               </div>
               <h4>KATKA GARCIA A PŘÁTELÉ</h4>
-              <p></p>
+              <p>
+                Využili jsme přítomnosti Katky v Česku, která jinak žije v
+                Dublinu a dali jsme ji dohromady s muzikanty, se kterými ji pojí
+                hudební minulost zde v Česku, zejména ta neformální.
+              </p>
             </div>
           </div>
 
@@ -146,7 +170,11 @@
                 <img src="@/assets/img/speakers/dudaci.jpeg" alt="ANDY WILLS" />
               </div>
               <h4>BLUE SQUADRON PIPE BAND</h4>
-              <p>Český dudácký band hrající tradiční skotskou hudbu.</p>
+              <p>
+                V roce 2018 se spojilo několik členů dudáckých kapel, s cílem
+                propagovat tradiční skotskou hudbu na úrovni, se kterou mohou
+                reprezentovat Českou republiku ve světě.
+              </p>
             </div>
           </div>
 
@@ -154,10 +182,13 @@
             <div class="col-md-2"><time>20:00</time></div>
             <div class="col-md-10">
               <div class="speaker">
-                <img src="@/assets/img/speakers/beltine.jpg" alt="BELTINE" />
+                <img src="@/assets/img/speakers/beltaine.jpeg" alt="BELTINE" />
               </div>
               <h4>BELTINE (PL)</h4>
-              <p></p>
+              <p>
+                Irské a skotské melodie na tradiční nástoje rozšírené o bassovou
+                kytaru a perkusei.
+              </p>
             </div>
           </div>
 
@@ -168,7 +199,11 @@
                 <img src="@/assets/img/speakers/dudaci.jpeg" alt="ANDY WILLS" />
               </div>
               <h4>BLUE SQUADRON PIPE BAND</h4>
-              <p>Český dudácký band hrající tradiční skotskou hudbu.</p>
+              <p>
+                V roce 2018 se spojilo několik členů dudáckých kapel, s cílem
+                propagovat tradiční skotskou hudbu na úrovni, se kterou mohou
+                reprezentovat Českou republiku ve světě.
+              </p>
             </div>
           </div>
 
