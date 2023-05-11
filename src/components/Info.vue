@@ -55,8 +55,9 @@ const {
             </p>
             <br />
             <p>
-              Parkovat můžete ve městě. <br />Pro pořadatele a účinkující na
-              vyhrazeném parkoviště na Mírovém náměstí u kostela.
+              Parkovat můžete ve městě (po dodržení dopravních předpisů).
+              <br />Pro pořadatele a účinkující na vyhrazeném parkoviště na
+              Mírovém náměstí u kostela.
             </p>
           </div>
         </div>

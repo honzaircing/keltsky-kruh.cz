@@ -1761,10 +1761,12 @@ h6 {
     padding-right: 10px;
     border-left: 1px solid #ddd;
     border-right: 1px solid #ddd;
+    min-height: 450px;
   }
   #info .info-bus {
     border-left: 0px solid #ddd;
     border-right: 1px solid #ddd;
+    min-height: 450px;
   }
 }
 

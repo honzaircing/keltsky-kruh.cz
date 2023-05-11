@@ -102,6 +102,15 @@ watch(
               >Pořadatel</RouterLink
             >
           </li>
+          <li>
+            <RouterLink
+              to="/informace"
+              class="nav-link scrollto"
+              active-class="active"
+              @click="mobilShow(false)"
+              >Informace</RouterLink
+            >
+          </li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle" @click="mobilShow(true)"></i>
       </nav>
