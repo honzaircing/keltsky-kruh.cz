@@ -58,7 +58,7 @@
               </div>
               <h4>VÝUKA IRSKÝCH TANCŮ</h4>
               <p>
-                PZáměrem této výuky bude, aby tance, které se publikum naučí,
+                Záměrem této výuky bude, aby tance, které se publikum naučí,
                 mohlo uplatnit v rámci vystoupení některých hudebních skupin na
                 tomto festivalu.
               </p>
