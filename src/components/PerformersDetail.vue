@@ -6,11 +6,7 @@ const route = useRoute();
 
 const performer = route.params.performer;
 
-const filterPerformer = performers
-  .filter((e) => e.slug === performer)
-  .map((e) => {
-    return { name: e.name, text: e.text, img: e.img, slug: e.slug };
-  })[0];
+const filterPerformer = performers.filter((e) => e.slug === performer)[0];
 </script>
 <template>
   <main id="main" class="main-page">
@@ -32,6 +28,38 @@ const filterPerformer = performers
 
           <div class="col-md-6">
             <div class="details">
+              <div v-if="filterPerformer['links:']" class="social">
+                <a
+                  v-if="filterPerformer['links:']?.www"
+                  :href="filterPerformer['links:']?.www"
+                  target="_blank"
+                  ><i class="bi bi-browser-chrome"></i
+                ></a>
+                <a
+                  v-if="filterPerformer['links:']?.facebook"
+                  :href="filterPerformer['links:']?.facebook"
+                  target="_blank"
+                  ><i class="bi bi-facebook"></i
+                ></a>
+                <a
+                  v-if="filterPerformer['links:']?.instagram"
+                  :href="filterPerformer['links:']?.instagram"
+                  target="_blank"
+                  ><i class="bi bi-instagram"></i
+                ></a>
+                <a
+                  v-if="filterPerformer['links:']?.youtube"
+                  :href="filterPerformer['links:']?.youtube"
+                  target="_blank"
+                  ><i class="bi bi-youtube"></i
+                ></a>
+                <a
+                  v-if="filterPerformer['links:']?.spotify"
+                  :href="filterPerformer['links:']?.spotify"
+                  target="_blank"
+                  ><i class="bi bi-spotify"></i
+                ></a>
+              </div>
               <div v-html="filterPerformer.text!"></div>
             </div>
           </div>
