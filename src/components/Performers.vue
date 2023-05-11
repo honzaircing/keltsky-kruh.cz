@@ -23,7 +23,38 @@ import performers from "@/stores/performers.json";
                   performer.name
                 }}</RouterLink>
               </h3>
-              <p><br /><br /></p>
+              <div v-if="performer['links:']" class="social">
+                <a
+                  v-if="performer['links:']?.www"
+                  :href="performer['links:']?.www"
+                  target="_blank"
+                  ><i class="bi bi-browser-chrome"></i
+                ></a>
+                <a
+                  v-if="performer['links:']?.facebook"
+                  :href="performer['links:']?.facebook"
+                  target="_blank"
+                  ><i class="bi bi-facebook"></i
+                ></a>
+                <a
+                  v-if="performer['links:']?.instagram"
+                  :href="performer['links:']?.instagram"
+                  target="_blank"
+                  ><i class="bi bi-instagram"></i
+                ></a>
+                <a
+                  v-if="performer['links:']?.youtube"
+                  :href="performer['links:']?.youtube"
+                  target="_blank"
+                  ><i class="bi bi-youtube"></i
+                ></a>
+                <a
+                  v-if="performer['links:']?.spotify"
+                  :href="performer['links:']?.spotify"
+                  target="_blank"
+                  ><i class="bi bi-spotify"></i
+                ></a>
+              </div>
             </div>
           </div>
         </div>
