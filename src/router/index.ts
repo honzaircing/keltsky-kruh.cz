@@ -92,7 +92,18 @@ const router = createRouter({
         title: "Vstupenky",
         scrollTo: "#buy-tickets",
         "og:title": "Vstupenky - Keltský kruh",
-        "og:description": "Předprojed vstupenek za zvýhodněnou cenu",
+        "og:description": "Předprodej vstupenek za zvýhodněnou cenu",
+      },
+    },
+    {
+      path: "/informace",
+      name: "informace",
+      component: HomeView,
+      meta: {
+        title: "Informace",
+        scrollTo: "#info",
+        "og:title": "Informace - Keltský kruh",
+        "og:description": "Co je dobré ještě vědět",
       },
     },
     {
@@ -103,7 +114,7 @@ const router = createRouter({
         title: "Vstupenky",
         scrollTo: "#buy-tickets",
         "og:title": "Vstupenky - Keltský kruh",
-        "og:description": "Předprojed vstupenek za zvýhodněnou cenu",
+        "og:description": "Předprodej vstupenek za zvýhodněnou cenu",
       },
     },
   ],

@@ -8,6 +8,8 @@ import "aos/dist/aos.css";
 
 import VueScrollTo from "vue-scrollto";
 
+import VueEasyLightbox from "vue-easy-lightbox";
+
 import { createApp } from "vue";
 import { renderToString } from "vue/server-renderer";
 import { createPinia } from "pinia";
@@ -22,6 +24,8 @@ const aos: any = AOS.init();
 app.use(aos);
 
 app.use(VueScrollTo);
+
+app.use(VueEasyLightbox);
 
 app.use(createPinia());
 app.use(router);
