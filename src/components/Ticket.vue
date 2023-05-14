@@ -8,7 +8,7 @@
 
       <div class="row">
         <div
-          class="col-lg-6 aos-init aos-animate"
+          class="col-lg-4 aos-init aos-animate"
           data-aos="fade-up"
           data-aos-delay="100"
         >
@@ -33,11 +33,11 @@
           </div>
         </div>
         <div
-          class="col-lg-6 aos-init aos-animate"
+          class="col-lg-4 aos-init aos-animate"
           data-aos="fade-up"
           data-aos-delay="200"
         >
-          <div class="card mb-10 mb-lg-0">
+          <div class="card mb-5 mb-lg-0">
             <div class="card-body">
               <h5 class="card-title text-muted text-uppercase text-center">
                 Na místě
@@ -45,6 +45,22 @@
               <h6 class="card-price text-center">500 KČ</h6>
               <hr />
               <div class="text-center mb-lg-3">POUZE DO VYPRODÁNÍ</div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-lg-4 aos-init aos-animate"
+          data-aos="fade-up"
+          data-aos-delay="200"
+        >
+          <div class="card mb-5 mb-lg-0">
+            <div class="card-body">
+              <h5 class="card-title text-muted text-uppercase text-center">
+                děti do 15 let, držitelé průkazu ZTP a ZTP/P
+              </h5>
+              <h6 class="card-price text-center">ZDARMA</h6>
+              <hr />
+              <div class="text-center mb-lg-3">...</div>
             </div>
           </div>
         </div>
