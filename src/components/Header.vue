@@ -111,6 +111,16 @@ watch(
               >Informace</RouterLink
             >
           </li>
+
+          <li>
+            <RouterLink
+              to="/kontakt"
+              class="nav-link scrollto"
+              active-class="active"
+              @click="mobilShow(false)"
+              >Kontakt</RouterLink
+            >
+          </li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle" @click="mobilShow(true)"></i>
       </nav>

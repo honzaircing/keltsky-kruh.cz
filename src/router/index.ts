@@ -107,6 +107,17 @@ const router = createRouter({
       },
     },
     {
+      path: "/kontakt",
+      name: "kontakt",
+      component: HomeView,
+      meta: {
+        title: "Kontakt",
+        scrollTo: "#contact",
+        "og:title": "Kontakt - Keltský kruh",
+        "og:description": "Kam se obrátit",
+      },
+    },
+    {
       path: "/#buy-tickests",
       name: "vstupenky2",
       component: HomeView,
