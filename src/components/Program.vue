@@ -121,8 +121,8 @@
               <h4>MICHAL HROMEK CONSORT</h4>
               <p>
                 Tvůrce alba Keltská kytara Michal Hromek hraje s flétnistou
-                Jakubem Klárem a perkusistou Danielem Mikoláškem a další
-                instrumentalisté či zpěvačka
+                Jakubem Klárem, s multiinstrumentalistou Danielem Mikoláškem,
+                violistou Matějem Kroupu a zpěvačkou Tatianou Čudovou.
               </p>
             </div>
           </div>
