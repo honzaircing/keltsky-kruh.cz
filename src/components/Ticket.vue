@@ -19,15 +19,9 @@
               </h5>
               <h6 class="card-price text-center">400 KČ</h6>
               <hr />
-              <div class="text-center">
-                <a
-                  type="button"
-                  class="btn"
-                  href="https://skotskehry.bzuco.cloud/acs/tickets/cs/tickets/38/#/38"
-                  target="_blank"
-                >
-                  Koupit
-                </a>
+              <div class="text-center mb-lg-3">
+                PRODEJ UKONČEN <br />
+                na místě vstupenky stále k dispozici
               </div>
             </div>
           </div>
