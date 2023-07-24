@@ -52,6 +52,17 @@ const router = createRouter({
       },
     },
     {
+      path: "/kdo-jsme",
+      name: "kdo-jsme",
+      component: () => import("../views/OrganizerView.vue"),
+      meta: {
+        title: "O Festivalu",
+        scrollTo: "#about-info",
+        "og:title": "O Festivalu - Keltský kruh",
+        "og:description": "Kdo jsme?",
+      },
+    },
+    {
       path: "/program",
       name: "program",
       component: HomeView,
