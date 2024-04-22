@@ -1,5 +1,14 @@
 [
   {
+    "name": "Camna",
+    "slug": "camna",
+    "text": "<p>Přátelé a kamarádi, jsme kapela Camna a v současnosti čítáme šest stálých členů našeho uskupení. Co hrajeme? Country a folk převážně z české scény, pak trochu toho bluegrassu, skotské a irské lidové tradicionály. Pro milovníky bigbítu jsme rozšířili repertoár, aby si přišli na své i ti, co si chtějí pořádně zatrsat.    Sem tam zahrajeme i něco málo netradičního, každý si ale přijde na své.    Proč hrajeme? Hrajeme ve svém volném čase proto, že nás to baví a muzika je naším koníčkem. Všichni členové kapely Camna jsou protřelými harcovníky s různou muzikantskou minulostí. Kromě běžných nástrojů používaných v country muzice máme také ještě české i skotské dudy a píšťaly, které pak naší hudební produkci příjemně obohacují. Kde hrajeme? Všude, kde nás budou lidé rádi poslouchat.</p>",
+    "img": "camna.jpeg",
+    "links": {
+      "www": "https://www.camna.cz/"
+    }
+  },
+  {
     "name": "Ambiam",
     "slug": "ambiam",
     "text": "<p>Ambiam je skupina, která hraje lidové písničky původem převážně z Anglie, Irska a Skotska. Jsme vášniví mladí hudebníci, zhruba od 7 do 18 let. Je nás vždy různý počet, máme tzv. session musicians. To znamená, že někdo zde hraje nastálo, někdo odchází a přichází každý nový rok. Aktuálně je nás kolem 14 lidí, ale stále hledáme nové zájemce do naší skupiny. Vedoucím Ambiamu je Mark Johnston - pravý angličan, který přímo přenáší tradice ze své vlasti do České Republiky. Pořádáme různé koncerty, hrajeme seniorům, na akcích města a podobně.</p>",

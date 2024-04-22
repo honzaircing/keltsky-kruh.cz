@@ -45,7 +45,7 @@
             <div class="col-md-10">
               <div class="speaker">
                 <img
-                  src="@/assets/img/speakers/ambiam.jpeg"
+                  src="@/assets/img/speakers/ambiam.webp"
                   alt="MICHAL HROMEK CONSORT"
                 />
               </div>
