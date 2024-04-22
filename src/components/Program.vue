@@ -30,71 +30,49 @@
           </div>
 
           <div class="row schedule-item">
-            <div class="col-md-2"><time>13:30</time></div>
+            <div class="col-md-2"><time>--</time></div>
             <div class="col-md-10">
               <div class="speaker">
-                <img
-                  src="@/assets/img/speakers/andy_wills.jpeg"
-                  alt="ANDY WILLS"
-                />
+                <img src="@/assets/img/speakers/camna.jpeg" alt="ANDY WILLS" />
               </div>
-              <h4>ANDY WILLS (Scotland)</h4>
-              <p>
-                Andy Wills, Aneta Fišerová a Saami-Peter Schwott zahrají známé
-                melodie z Irska, Skotska, ale velkým přínosem budou písně a
-                skladby ze shetlandských ostrovů.
-              </p>
+              <h4>CAMNA</h4>
+              <p></p>
             </div>
           </div>
 
           <div class="row schedule-item">
-            <div class="col-md-2"><time>14:30</time></div>
+            <div class="col-md-2"><time>--</time></div>
             <div class="col-md-10">
               <div class="speaker">
                 <img
-                  src="@/assets/img/speakers/bss.jpeg"
+                  src="@/assets/img/speakers/ambiam.jpeg"
                   alt="MICHAL HROMEK CONSORT"
                 />
               </div>
-              <h4>VÝUKA IRSKÝCH TANCŮ</h4>
-              <p>
-                Záměrem této výuky bude, aby tance, které se publikum naučí,
-                mohlo uplatnit v rámci vystoupení některých hudebních skupin na
-                tomto festivalu.
-              </p>
+              <h4>AMBIAM (MARK JOHNSTON)</h4>
+              <p></p>
             </div>
           </div>
 
           <div class="row schedule-item">
-            <div class="col-md-2"><time>15:00</time></div>
+            <div class="col-md-2"><time>--</time></div>
             <div class="col-md-10">
               <div class="speaker">
-                <img src="@/assets/img/speakers/kukulin.jpeg" alt="KUKULÍN" />
+                <img src="@/assets/img/speakers/irish-dew.jpeg" alt="KUKULÍN" />
               </div>
-              <h4>KUKULÍN</h4>
-              <p>
-                Legenda české “keltské” hudební scény. Hudebníci soustředění
-                kolem legendárního houslisty Jana Hrubého (Framus 5, Michal
-                Prokop, Vladimir Mišík)
-              </p>
+              <h4>IRISH DEW</h4>
+              <p></p>
             </div>
           </div>
 
           <div class="row schedule-item">
-            <div class="col-md-2"><time>16:00</time></div>
+            <div class="col-md-2"><time>--</time></div>
             <div class="col-md-10">
               <div class="speaker">
-                <img
-                  src="@/assets/img/speakers/wvdm.jpeg"
-                  alt="WENDY VAN DER MEIJS"
-                />
+                <img src="@/assets/img/speakers/ri-ra.jpeg" alt="RÍ RA" />
               </div>
-              <h4>HARFOVÉ DUO</h4>
-              <p>
-                Harfové duo složené z Wendy van der Meijs a Jany Maffet
-                Šouflové. Obě nejsou neznámé ve světě tohoto nástroje v naší
-                zemi, neboť jde o dlouhodobé propagátorky keltské harfy.
-              </p>
+              <h4>RÍ RA</h4>
+              <p></p>
             </div>
           </div>
 
