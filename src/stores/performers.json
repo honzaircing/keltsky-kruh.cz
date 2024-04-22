@@ -66,7 +66,6 @@
       "instagram": "https://www.instagram.com/riraband/"
     }
   },
-
   {
     "name": "Keltská vesnice",
     "slug": "kelti",
@@ -74,7 +73,6 @@
     "img": "kelti.png",
     "links:": {}
   },
-
   {
     "name": "Poitín",
     "slug": "poitin",
@@ -83,7 +81,17 @@
     "links:": {
         "bandcamp":"https://riraband.bandcamp.com/",
         "facebook": "https://www.facebook.com/poitinband/"
-
+    }
+  },
+  {
+    "name": "Claymore",
+    "slug": "claymore",
+    "text": "<p>Kapela CLAYMORE vznikla na začátku roku 2011. Vystoupení a  tvorba kapely se od začátku nesou v duchu gaelic-rocku, inspirovaného skotskou a irskou hudbou, okořeněného o specifický zvuk skotských dud. CLAYMORE má základnu ve Štětí a okolí. Kapela ovšem ráda vyráží na cesty a za dobu svého působení odehrála stovky koncertů pro tisíce fanoušků dobré muziky po celé České republice a v zahraničí.</p>",
+    "img": "claymore.webp",
+    "links:": {
+        "www": "https://www.claymore.cz/",
+        "facebook": "https://www.facebook.com/claymoresteti",
+        "instagram": "https://www.instagram.com/claymore.gaelicrock/"
     }
   }
 ]
