@@ -1,21 +1,13 @@
 [
   {
-    "name": "Camna",
-    "slug": "camna",
-    "text": "<p>Přátelé a kamarádi, jsme kapela Camna a v současnosti čítáme šest stálých členů našeho uskupení. Co hrajeme? Country a folk převážně z české scény, pak trochu toho bluegrassu, skotské a irské lidové tradicionály. Pro milovníky bigbítu jsme rozšířili repertoár, aby si přišli na své i ti, co si chtějí pořádně zatrsat. Sem tam zahrajeme i něco málo netradičního, každý si ale přijde na své.    Proč hrajeme? Hrajeme ve svém volném čase proto, že nás to baví a muzika je naším koníčkem. Všichni členové kapely Camna jsou protřelými harcovníky s různou muzikantskou minulostí. Kromě běžných nástrojů používaných v country muzice máme také ještě české i skotské dudy a píšťaly, které pak naší hudební produkci příjemně obohacují. Kde hrajeme? Všude, kde nás budou lidé rádi poslouchat.</p>",
-    "img": "camna.jpeg",
-    "links:": {}
-  },
-
-  {
     "name": "Ambiam",
     "slug": "ambiam",
     "text": "<p>Ambiam je skupina, která hraje lidové písničky původem převážně z Anglie, Irska a Skotska. Jsme vášniví mladí hudebníci, zhruba od 7 do 18 let. Je nás vždy různý počet, máme tzv. "session musicians". To znamená, že někdo zde hraje nastálo, někdo odchází a přichází každý nový rok. Aktuálně je nás kolem 14 lidí, ale stále hledáme nové zájemce do naší skupiny. Vedoucím Ambiamu je Mark Johnston - pravý angličan, který přímo přenáší tradice ze své vlasti do České Republiky. Pořádáme různé koncerty, hrajeme seniorům, na akcích města a podobně.</p>",
     "img": "ambiam.webp",
-    "links:": {
+    "links": {
       "www": "https://ambiam.webnode.cz/",
       "facebook": "https://www.facebook.com/AmbiamBand",
-      "youtube": "https://www.youtube.com/channel/UCKfPwMddVYu0QWlDlzTgoJg",
+      "youtube": "https://www.youtube.com/channel/UCKfPwMddVYu0QWlDlzTgoJg"
     }
   },
 
@@ -24,7 +16,7 @@
     "slug": "blue-squadron-pipe-band",
     "text": "<p>Skotské dudy bývají ozdobou řady akcí a publikem jsou velmi žádané. O tom se jednou za dva roky můžeme přesvědčit například ve Strakonicích na Dudáckém festivalu. Pozvali jsem na letošní ročník Keltského kruhu dudácký soubor Blue Squadron Pipe Band z Prahy. A co dudáci sdělují o sobě?</p><p>Naše uskupení vzniklo v roce 2018, spojením členů několika dudáckých kapel, s cílem propagovat tradiční skotskou hudbu na úrovni, s níž bychom mohli reprezentovat Českou republiku ve světě, ať již na poli festivalovém, tak soutěžním. Jakožto vzor jsme si vzali 312. československou stíhací peruťve službách RAF, která se zapojila do bojů během druhé světové války, a sloužila také ve Skotsku na Orknejských a Shetlandských ostrovech, konkrétně na základnáchSkeabrae a Sumburgh. Jejich mottem bylo latinské „NON MULTI SED MULTA“, neboli ne mnozí v počtu, ale mnoho v činech, a právě takovým heslem se chceme řídit i my. V našem znaku se tak pojí odkaz na zemi,z níž pocházíme, na zemi, jejíž hudbu hrajeme a na příběh těch, kteří svou odvahou kdysi hájili svobodu obou.</p>",
     "img": "dudaci.png",
-    "links:": {
+    "links": {
       "www": "https://www.bspb.cz/",
       "facebook": "https://www.facebook.com/czechpipes"
     }
@@ -35,9 +27,9 @@
     "slug": "shannon",
     "text": "<p>Skupina Shannon – Irish Music hraje irskou hudbu přesně takovou, jakou nabízí „Smaragdový ostrov“, což si kapela ověřila na své společné cestě po Irsku v roce 2008, kde si zahrála s nejedním irským muzikantem a procestovala ostrov doslova křížem krážem, od Dublinu po Galway. Skupina vystupuje nejen u nás, ale také v zahraničí, např. v Rakousku, Maďarsku a na Slovensku. Asi největším úspěchem bylo společné vystoupení s irskou legendou Altan v pražské T-Mobile Aréně v roce 2007. Hudbu v podání skupiny Shannon jste mohli slyšet např. i v divadelní hře Hrdina Západu, kterou uvádělo divadlo Činoherní Klub v Praze v padesáti reprízách. Skupina natočila tři řadová alba – Poor but Happy /2002/, Sláinte! /2006/ a Lounge… /2011/. Shannon hraje irskou hudbu svým strhujícím způsobem za respektování všech ornamentů a ozdob melodie. V jeho nástrojovém obsazení najdete housle, irské flétny, kytaru v tradičním ladění, bodhrán, celé doplněno bezpražcovou baskytarou. Kromě svižných tanečních setů – reelů, jigů a polek, jsou v repertoáru kapely i písně v angličtině. Shannon Irish music, to je prostě Irsko jak má bejt.</p>",
     "img": "shannon.jpeg",
-    "links:": {
+    "links": {
       "www": "https://shannon.cz/",
-      "facebook": "https://www.facebook.com/SHANNONxxIRISHMUSICxxIrskoJakMaBejt",
+      "facebook": "https://www.facebook.com/SHANNONxxIRISHMUSICxxIrskoJakMaBejt"
     }
   },
 
@@ -47,7 +39,7 @@
     "slug": "irish-dew",
     "text": "<p>Skupina IRISH DEW produkuje tradiční irskou i skotskou hudbu a původní skladby v „keltském“ duchu a staví na styčných bodech naší, české keltské minulosti s původní irskou hudbou. Irish Dew patří již dlouhá léta ke špičce tohoto žánru v Čechách a ke stálici keltských festivalů, jako je např. kultovní Beltine. Současnou sestavu tvoří rodák z Newcastlu Sean Barry, dále Jiří Podzimek a Robert Fischmann. Frontmanem skupiny je Václav Veselý, muzikant, který byl například členem formací ETC či Framus Five a spolupracoval s Michalem Prokopem, Vladimírem Mertou, houslistou Janem Hrubým a řadou dalších známých umělců. Vrcholem jeho práce jsou ale především dva projekty – kultovní rocková kapela Dobrohošť a pak zejména právě Irish Dew se svým úspěšným albem „Závist“ (podle keltského opida na Zbraslavi).    </p>",
     "img": "irish-dew.png",
-    "links:": {
+    "links": {
       "facebook": "https://www.facebook.com/irishdewcz/"
     }
   },
@@ -57,10 +49,10 @@
     "slug": "ri-ra",
     "text": "<p>V produkci skupiny Rí Ra se snoubí irské tradicionály a instrumentální skladby, lehce okořeněné funky přiznávkami a jazzovými vyhrávkami. Kapela se nedrží striktně harmonie a standardních postupů irské tradiční hudby, a i díky tomu je její hudba otevřena širokému obecenstvu.</p>",
     "img": "ri-ra.jpeg",
-    "links:": {
+    "links": {
       "www": "http://branband.cz/",
       "facebook": "https://www.facebook.com/riraband/",
-      "youtube": "  http://www.rira.cz/videos/",
+      "youtube": "http://www.rira.cz/videos/",
       "spotify": "https://open.spotify.com/artist/74uzr1b4Z3Wxwzm7hO52mw?si=P506IvwSRgGghxls0nyVNw",
       "bandcamp": "https://riraband.bandcamp.com/",
       "instagram": "https://www.instagram.com/riraband/"
@@ -71,14 +63,14 @@
     "slug": "kelti",
     "text": "<p>Součástí programu bude i Keltská vesnice, kterou návštěvníci budou moci navštívit již od 11 hodin v sobotu 13. července a seznámit se tak se způsobem života, stravováním a řemesly Keltů, tak jak se je podařilo v průběhu věků rekonstruovat  a prostřednictvím příznivců Keltů předvést nejen na tomto festivalu.</p>",
     "img": "kelti.png",
-    "links:": {}
+    "links": {}
   },
   {
     "name": "Poitín",
     "slug": "poitin",
     "text": "<p>Poitín je keltská kapela z České republiky. Byli založeni v roce 1996, působí od roku 1997 a jejich hudba zahrnuje tradiční irskou hudbu, skotskou hudbu, anglické lidové písně a původní skladby keltského žánru. Jejich nejnovější album je One For The Road.</p>",
     "img": "poitin.jpeg",
-    "links:": {
+    "links": {
         "bandcamp":"https://riraband.bandcamp.com/",
         "facebook": "https://www.facebook.com/poitinband/"
     }
@@ -88,10 +80,19 @@
     "slug": "claymore",
     "text": "<p>Kapela CLAYMORE vznikla na začátku roku 2011. Vystoupení a  tvorba kapely se od začátku nesou v duchu gaelic-rocku, inspirovaného skotskou a irskou hudbou, okořeněného o specifický zvuk skotských dud. CLAYMORE má základnu ve Štětí a okolí. Kapela ovšem ráda vyráží na cesty a za dobu svého působení odehrála stovky koncertů pro tisíce fanoušků dobré muziky po celé České republice a v zahraničí.</p>",
     "img": "claymore.webp",
-    "links:": {
+    "links": {
         "www": "https://www.claymore.cz/",
         "facebook": "https://www.facebook.com/claymoresteti",
         "instagram": "https://www.instagram.com/claymore.gaelicrock/"
+    }
+  },
+  {
+    "name": "OHNIVÁ SHOW (R. LŮŽEK)",
+    "slug": "ohnova-show",
+    "text": "<p>...</p>",
+    "img": "ohnova-show.jpeg",
+    "links": {
+        "facebook": "https://www.facebook.com/radim.luzek"
     }
   }
 ]
