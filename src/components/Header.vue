@@ -95,15 +95,6 @@ watch(
           </li>
           <li>
             <RouterLink
-              to="/poradatel"
-              class="nav-link scrollto"
-              active-class="active"
-              @click="mobilShow(false)"
-              >Pořadatel</RouterLink
-            >
-          </li>
-          <li>
-            <RouterLink
               to="/informace"
               class="nav-link scrollto"
               active-class="active"

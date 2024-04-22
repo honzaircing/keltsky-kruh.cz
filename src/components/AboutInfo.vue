@@ -13,7 +13,7 @@
             <h2>Vážení přátelé,</h2>
 
             <p>
-              V sobotu 15. července 2023 se uskutečnil 18. ročník festivalu
+              V sobotu 13. července 2024 se uskutečnil 19. ročník festivalu
               KELTSKÝ KRUH na nádvoří hradu v Budyni nad Ohří. Děkujeme všem
               účinkujícím, kteří přijmuli naši nabídku vystoupit na tomto svým
               způsobem jedinečném festivalu. Děkujeme městu Budyně nad Ohří za

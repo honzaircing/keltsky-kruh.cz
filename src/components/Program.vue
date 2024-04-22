@@ -19,7 +19,7 @@
           id="day-1"
         >
           <div class="row schedule-item">
-            <div class="col-md-2"><time>11:00</time></div>
+            <div class="col-md-2"><time>10:00</time></div>
             <div class="col-md-10">
               <h4>Otevření hradu</h4>
               <p>

@@ -17,7 +17,7 @@
         </div>
         <div class="col-lg-3">
           <h3>Kdy</h3>
-          <p>Sobota<br />15. července 2023</p>
+          <p>Sobota<br />13. července 2024</p>
         </div>
       </div>
     </div>

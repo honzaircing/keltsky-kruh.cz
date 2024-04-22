@@ -1,23 +1,25 @@
 [
   {
-    "name": "Andy Wills",
-    "slug": "andy-wills",
-    "text": "<p>Součástí hudebního programu bude trio hudebníků Andy Wills, Aneta Fišerová a Saami-Peter Schwott. Vedle relativně známých písní a melodií z Irska  se budeme moci zaposlouchat do některých skotských písní a velkým přínosem tohoto tria budou písně a skladby ze shetlandských ostrovů. Ty zde nejsou moc známé a s ohledem na to, že Andy Wills pochází z jednoho ze shetlandských ostrovů, bude interpretace těchto písní a skladeb autentická. Andy slíbil, že součástí jejich vystoupení bude vysvětlení významu i historie jednotlivých písní v českém jazyku. Originální je i instrumentální obsazení tria: Andy vedle zpěvu hraje na mandolinu a irskou píšťalu (tin whistle), Aneta ve dle zpěvu hraje na foukací harmoniku a Peter na kytaru.</p>",
-    "img": "andy_wills.png",
+    "name": "Camna",
+    "slug": "camna",
+    "text": "<p>
+    Nejen country kapela Camna
+    Přátelé a kamarádi, jsme kapela Camna a v současnosti čítáme šest stálých členů našeho uskupení. Co hrajeme? Country a folk převážně z české scény, pak trochu toho bluegrassu, skotské a irské lidové tradicionály. Pro milovníky bigbítu jsme rozšířili repertoár, aby si přišli na své i ti, co si chtějí pořádně zatrsat.
+    Sem tam zahrajeme i něco málo netradičního, každý si ale přijde na své.
+    Proč hrajeme? Hrajeme ve svém volném čase proto, že nás to baví a muzika je naším koníčkem. Všichni členové kapely Camna jsou protřelými harcovníky s různou muzikantskou minulostí. Kromě běžných nástrojů používaných v country muzice máme také ještě české i skotské dudy a píšťaly, které pak naší hudební produkci příjemně obohacují. Kde hrajeme? Všude, kde nás budou lidé rádi poslouchat.</p>",
+    "img": "camna.jpeg",
     "links:": {}
   },
 
   {
-    "name": "Beltaine",
-    "slug": "beltaine",
-    "text": "<p>V programu festivalu se návštěvníci setkají s polskou kapelou Beltaine. Asi bude dobré tuto kapelu lépe představit, neboť tento název keltského svátku je natolik populární, že se po něm jmenuje hned několik kapel. My jsme pozvali kapelu Beltaine, která vznikla v roce 2002 v polských Katowicích. V původním repertoáru se objevovaly irské a skotské melodie doprovázené nástroji používanými v tradiční hudbě. Posléze se skupina modernizovala a rozšiřovala o bassovou kytaru a perkuse. Po svém vzniku kapela nejprve navštěvovala festivaly v Polsku a v roce 2004 natočila první album s názvem Rockhill. Album se stalo velmi populárním a velmi oceňovaným nejen na polském trhu. Myslím, že toto album otevřelo skupině cestu na zahraniční turné a festivaly po celé Evropě, v Malajsii a Mexiku. V této době také Beltaine navštívil v Česku festival Beltine v roce 2006 (Lipnice nad Sázavou) a 2010 (Praha, skanzen Řepora). Od té doby se mnoho změnilo i v samotné kapele a tak jistě je dobrým počinem toto hudební těleso zase k nám pozvat.</p><p>Od prvního alba skupina vydala dalších šest alb se skladbami a písněmi keltských národů s velmi zajímavými aranži, které kapele umožňuje  používání širší škály hudebních nástrojů. </p>",
-    "img": "beltaine.png",
+    "name": "Ambiam",
+    "slug": "ambiam",
+    "text": "<p>Ambiam je skupina, která hraje lidové písničky původem převážně z Anglie, Irska a Skotska. Jsme vášniví mladí hudebníci, zhruba od 7 do 18 let. Je nás vždy různý počet, máme tzv. "session musicians". To znamená, že někdo zde hraje nastálo, někdo odchází a přichází každý nový rok. Aktuálně je nás kolem 14 lidí, ale stále hledáme nové zájemce do naší skupiny. Vedoucím Ambiamu je Mark Johnston - pravý angličan, který přímo přenáší tradice ze své vlasti do České Republiky. Pořádáme různé koncerty, hrajeme seniorům, na akcích města a podobně.</p>",
+    "img": "ambiam.webp",
     "links:": {
-      "www": "https://beltaine.pl/",
-      "facebook": "https://www.facebook.com/beltainepoland",
-      "instagram": "https://www.instagram.com/beltaine_band/",
-      "youtube": "https://www.youtube.com/channel/UC1cZk4lbS6FhhZwdcd_nPdg/featured",
-      "spotify": "https://open.spotify.com/artist/3rwE7hh0DnwpsapVBpzofH"
+      "www": "https://ambiam.webnode.cz/",
+      "facebook": "https://www.facebook.com/AmbiamBand",
+      "youtube": "https://www.youtube.com/channel/UCKfPwMddVYu0QWlDlzTgoJg",
     }
   },
 
@@ -63,7 +65,7 @@
   {
     "name": "Keltská vesnice",
     "slug": "kelti",
-    "text": "<p>Součástí programu bude i Keltská vesnice, kterou návštěvníci budou moci navštívit již od 11 hodin v sobotu 15. července a seznámit se tak se způsobem života, stravováním a řemesly Keltů, tak jak se je podařilo v průběhu věků rekonstruovat  a prostřednictvím příznivců Keltů předvést nejen na tomto festivalu.</p>",
+    "text": "<p>Součástí programu bude i Keltská vesnice, kterou návštěvníci budou moci navštívit již od 11 hodin v sobotu 13. července a seznámit se tak se způsobem života, stravováním a řemesly Keltů, tak jak se je podařilo v průběhu věků rekonstruovat  a prostřednictvím příznivců Keltů předvést nejen na tomto festivalu.</p>",
     "img": "kelti.png",
     "links:": {}
   },

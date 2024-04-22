@@ -29,7 +29,7 @@
 
 
                   <p>V tomto složení už v současné době připravujeme program 18. ročníku festivalu Keltský kruh,
-                    který se bude konat v sobotu 15. července 2023 na stejném místě, jako předchozích 17. ročníků
+                    který se bude konat v sobotu 13. července 2024 na stejném místě, jako předchozích 17. ročníků
                     tj. na nádvoří Vodního hradu v Budyni. Město Budyně nad Ohří po odstoupení z role hlavního
                     pořadatele přesto pokračuje v podpoře tohoto festivalu. Díky tomu už nyní můžeme slíbit
                     zajímavý zejména hudební program, který v průběhu dubna zveřejníme a zároveň umožníme
