@@ -77,75 +77,24 @@
           </div>
 
           <div class="row schedule-item">
-            <div class="col-md-2"><time>16:30</time></div>
+            <div class="col-md-2"><time>--</time></div>
             <div class="col-md-10">
               <div class="speaker">
-                <img src="@/assets/img/speakers/kelti.jpeg" alt="KELTI" />
+                <img src="@/assets/img/speakers/shannon.jpeg" alt="SHANNON" />
               </div>
-              <h4>KELTI</h4>
-              <p>Komentovaná ukázka z keltské kultury.</p>
+              <h4>SHANNON</h4>
+              <p></p>
             </div>
           </div>
 
           <div class="row schedule-item">
-            <div class="col-md-2"><time>17:00</time></div>
+            <div class="col-md-2"><time>--</time></div>
             <div class="col-md-10">
               <div class="speaker">
                 <img
-                  src="@/assets/img/speakers/hromek.jpg"
-                  alt="MICHAL HROMEK CONSORT"
+                  src="@/assets/img/speakers/dudaci.jpeg"
+                  alt="BLUE SQUADRON PIPE BAND"
                 />
-              </div>
-              <h4>MICHAL HROMEK CONSORT</h4>
-              <p>
-                Tvůrce alba Keltská kytara Michal Hromek hraje s flétnistou
-                Jakubem Klárem, s multiinstrumentalistou Danielem Mikoláškem,
-                violistou Matějem Kroupu a zpěvačkou Tatianou Čudovou.
-              </p>
-            </div>
-          </div>
-
-          <div class="row schedule-item">
-            <div class="col-md-2"><time>18:00</time></div>
-            <div class="col-md-10">
-              <div class="speaker">
-                <img
-                  src="@/assets/img/speakers/bss.jpeg"
-                  alt="MICHAL HROMEK CONSORT"
-                />
-              </div>
-              <h4>VÝUKA IRSKÝCH TANCŮ</h4>
-              <p>
-                Záměrem této výuky bude, aby tance, které se publikum naučí,
-                mohlo uplatnit v rámci vystoupení některých hudebních skupin na
-                tomto festivalu.
-              </p>
-            </div>
-          </div>
-
-          <div class="row schedule-item">
-            <div class="col-md-2"><time>18:30</time></div>
-            <div class="col-md-10">
-              <div class="speaker">
-                <img
-                  src="@/assets/img/speakers/garcia.jpeg"
-                  alt="MICHAL HROMEK CONSORT"
-                />
-              </div>
-              <h4>KATKA GARCIA A PŘÁTELÉ</h4>
-              <p>
-                Využili jsme přítomnosti Katky v Česku, která jinak žije v
-                Dublinu a dali jsme ji dohromady s muzikanty, se kterými ji pojí
-                hudební minulost zde v Česku, zejména ta neformální.
-              </p>
-            </div>
-          </div>
-
-          <div class="row schedule-item">
-            <div class="col-md-2"><time>19:30</time></div>
-            <div class="col-md-10">
-              <div class="speaker">
-                <img src="@/assets/img/speakers/dudaci.jpeg" alt="ANDY WILLS" />
               </div>
               <h4>BLUE SQUADRON PIPE BAND</h4>
               <p>
@@ -157,45 +106,38 @@
           </div>
 
           <div class="row schedule-item">
-            <div class="col-md-2"><time>20:00</time></div>
+            <div class="col-md-2"><time>--</time></div>
             <div class="col-md-10">
               <div class="speaker">
-                <img src="@/assets/img/speakers/beltaine.jpeg" alt="BELTINE" />
+                <img src="@/assets/img/speakers/poitin.jpeg" alt="POITÍN" />
               </div>
-              <h4>BELTINE (PL)</h4>
-              <p>
-                Irské a skotské melodie na tradiční nástoje rozšírené o bassovou
-                kytaru a perkusei.
-              </p>
+              <h4>POITÍN</h4>
+              <p></p>
             </div>
           </div>
 
           <div class="row schedule-item">
-            <div class="col-md-2"><time>21:30</time></div>
+            <div class="col-md-2"><time>--</time></div>
             <div class="col-md-10">
               <div class="speaker">
-                <img src="@/assets/img/speakers/dudaci.jpeg" alt="ANDY WILLS" />
+                <img src="@/assets/img/speakers/claymore.webp" alt="CLAYMORE" />
               </div>
-              <h4>BLUE SQUADRON PIPE BAND</h4>
-              <p>
-                V roce 2018 se spojilo několik členů dudáckých kapel, s cílem
-                propagovat tradiční skotskou hudbu na úrovni, se kterou mohou
-                reprezentovat Českou republiku ve světě.
-              </p>
+              <h4>CLAYMORE</h4>
+              <p></p>
             </div>
           </div>
 
           <div class="row schedule-item">
-            <div class="col-md-2"><time>22:00</time></div>
+            <div class="col-md-2"><time>--</time></div>
             <div class="col-md-10">
               <div class="speaker">
-                <img src="@/assets/img/speakers/bran.jpg" alt="BRAN" />
+                <img
+                  src="@/assets/img/speakers/oniva-show.jpeg"
+                  alt="OHNIVÁ SHOW (R. LŮŽEK)"
+                />
               </div>
-              <h4>BRAN</h4>
-              <p>
-                Bran, to je hudba vycházející ze starých bretaňských lidových
-                motivů, dávných tanců a zpěvů moře.
-              </p>
+              <h4>OHNIVÁ SHOW (R. LŮŽEK)</h4>
+              <p></p>
             </div>
           </div>
         </div>
