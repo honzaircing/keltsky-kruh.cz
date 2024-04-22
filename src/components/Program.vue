@@ -132,7 +132,7 @@
             <div class="col-md-10">
               <div class="speaker">
                 <img
-                  src="@/assets/img/speakers/oniva-show.jpeg"
+                  src="@/assets/img/speakers/ohniva-show.jpeg"
                   alt="OHNIVÁ SHOW (R. LŮŽEK)"
                 />
               </div>
