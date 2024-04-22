@@ -2,7 +2,7 @@
   {
     "name": "Ambiam",
     "slug": "ambiam",
-    "text": "<p>Ambiam je skupina, která hraje lidové písničky původem převážně z Anglie, Irska a Skotska. Jsme vášniví mladí hudebníci, zhruba od 7 do 18 let. Je nás vždy různý počet, máme tzv. "session musicians". To znamená, že někdo zde hraje nastálo, někdo odchází a přichází každý nový rok. Aktuálně je nás kolem 14 lidí, ale stále hledáme nové zájemce do naší skupiny. Vedoucím Ambiamu je Mark Johnston - pravý angličan, který přímo přenáší tradice ze své vlasti do České Republiky. Pořádáme různé koncerty, hrajeme seniorům, na akcích města a podobně.</p>",
+    "text": "<p>Ambiam je skupina, která hraje lidové písničky původem převážně z Anglie, Irska a Skotska. Jsme vášniví mladí hudebníci, zhruba od 7 do 18 let. Je nás vždy různý počet, máme tzv. session musicians. To znamená, že někdo zde hraje nastálo, někdo odchází a přichází každý nový rok. Aktuálně je nás kolem 14 lidí, ale stále hledáme nové zájemce do naší skupiny. Vedoucím Ambiamu je Mark Johnston - pravý angličan, který přímo přenáší tradice ze své vlasti do České Republiky. Pořádáme různé koncerty, hrajeme seniorům, na akcích města a podobně.</p>",
     "img": "ambiam.webp",
     "links": {
       "www": "https://ambiam.webnode.cz/",
@@ -32,7 +32,6 @@
       "facebook": "https://www.facebook.com/SHANNONxxIRISHMUSICxxIrskoJakMaBejt"
     }
   },
-
 
   {
     "name": "Irish Dew",
@@ -71,8 +70,8 @@
     "text": "<p>Poitín je keltská kapela z České republiky. Byli založeni v roce 1996, působí od roku 1997 a jejich hudba zahrnuje tradiční irskou hudbu, skotskou hudbu, anglické lidové písně a původní skladby keltského žánru. Jejich nejnovější album je One For The Road.</p>",
     "img": "poitin.jpeg",
     "links": {
-        "bandcamp":"https://riraband.bandcamp.com/",
-        "facebook": "https://www.facebook.com/poitinband/"
+      "bandcamp": "https://riraband.bandcamp.com/",
+      "facebook": "https://www.facebook.com/poitinband/"
     }
   },
   {
@@ -81,9 +80,9 @@
     "text": "<p>Kapela CLAYMORE vznikla na začátku roku 2011. Vystoupení a  tvorba kapely se od začátku nesou v duchu gaelic-rocku, inspirovaného skotskou a irskou hudbou, okořeněného o specifický zvuk skotských dud. CLAYMORE má základnu ve Štětí a okolí. Kapela ovšem ráda vyráží na cesty a za dobu svého působení odehrála stovky koncertů pro tisíce fanoušků dobré muziky po celé České republice a v zahraničí.</p>",
     "img": "claymore.webp",
     "links": {
-        "www": "https://www.claymore.cz/",
-        "facebook": "https://www.facebook.com/claymoresteti",
-        "instagram": "https://www.instagram.com/claymore.gaelicrock/"
+      "www": "https://www.claymore.cz/",
+      "facebook": "https://www.facebook.com/claymoresteti",
+      "instagram": "https://www.instagram.com/claymore.gaelicrock/"
     }
   },
   {
@@ -92,7 +91,7 @@
     "text": "<p>...</p>",
     "img": "ohnova-show.jpeg",
     "links": {
-        "facebook": "https://www.facebook.com/radim.luzek"
+      "facebook": "https://www.facebook.com/radim.luzek"
     }
   }
 ]
