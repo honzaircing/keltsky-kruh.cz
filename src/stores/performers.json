@@ -2,11 +2,7 @@
   {
     "name": "Camna",
     "slug": "camna",
-    "text": "<p>
-    Nejen country kapela Camna
-    Přátelé a kamarádi, jsme kapela Camna a v současnosti čítáme šest stálých členů našeho uskupení. Co hrajeme? Country a folk převážně z české scény, pak trochu toho bluegrassu, skotské a irské lidové tradicionály. Pro milovníky bigbítu jsme rozšířili repertoár, aby si přišli na své i ti, co si chtějí pořádně zatrsat.
-    Sem tam zahrajeme i něco málo netradičního, každý si ale přijde na své.
-    Proč hrajeme? Hrajeme ve svém volném čase proto, že nás to baví a muzika je naším koníčkem. Všichni členové kapely Camna jsou protřelými harcovníky s různou muzikantskou minulostí. Kromě běžných nástrojů používaných v country muzice máme také ještě české i skotské dudy a píšťaly, které pak naší hudební produkci příjemně obohacují. Kde hrajeme? Všude, kde nás budou lidé rádi poslouchat.</p>",
+    "text": "<p>Nejen country kapela Camna Přátelé a kamarádi, jsme kapela Camna a v současnosti čítáme šest stálých členů našeho uskupení. Co hrajeme? Country a folk převážně z české scény, pak trochu toho bluegrassu, skotské a irské lidové tradicionály. Pro milovníky bigbítu jsme rozšířili repertoár, aby si přišli na své i ti, co si chtějí pořádně zatrsat. Sem tam zahrajeme i něco málo netradičního, každý si ale přijde na své.    Proč hrajeme? Hrajeme ve svém volném čase proto, že nás to baví a muzika je naším koníčkem. Všichni členové kapely Camna jsou protřelými harcovníky s různou muzikantskou minulostí. Kromě běžných nástrojů používaných v country muzice máme také ještě české i skotské dudy a píšťaly, které pak naší hudební produkci příjemně obohacují. Kde hrajeme? Všude, kde nás budou lidé rádi poslouchat.</p>",
     "img": "camna.jpeg",
     "links:": {}
   },
@@ -24,25 +20,27 @@
   },
 
   {
-    "name": " Blue Squadron Pipe Band ",
-    "slug": "blue-squadron-pipe-band",
-    "text": "<p>Skotské dudy bývají ozdobou řady akcí a publikem jsou velmi žádané. O tom se jednou za dva roky můžeme přesvědčit například ve Strakonicích na Dudáckém festivalu. Pozvali jsem na letošní ročník Keltského kruhu dudácký soubor Blue Squadron Pipe Band z Prahy. A co dudáci sdělují o sobě?</p><p>Naše uskupení vzniklo v roce 2018, spojením členů několika dudáckých kapel, s cílem propagovat tradiční skotskou hudbu na úrovni, s níž bychom mohli reprezentovat Českou republiku ve světě, ať již na poli festivalovém, tak soutěžním. Jakožto vzor jsme si vzali 312. československou stíhací peruťve službách RAF, která se zapojila do bojů během druhé světové války, a sloužila také ve Skotsku na Orknejských a Shetlandských ostrovech, konkrétně na základnáchSkeabrae a Sumburgh. Jejich mottem bylo latinské „NON MULTI SED MULTA“, neboli ne mnozí v počtu, ale mnoho v činech, a právě takovým heslem se chceme řídit i my. V našem znaku se tak pojí odkaz na zemi,z níž pocházíme, na zemi, jejíž hudbu hrajeme a na příběh těch, kteří svou odvahou kdysi hájili svobodu obou.</p>",
-    "img": "dudaci.png",
+    "name": "Irish Dew",
+    "slug": "irish-dew",
+    "text": "<p>Skupina IRISH DEW produkuje tradiční irskou i skotskou hudbu a původní skladby v „keltském“ duchu a staví na styčných bodech naší, české keltské minulosti s původní irskou hudbou. Irish Dew patří již dlouhá léta ke špičce tohoto žánru v Čechách a ke stálici keltských festivalů, jako je např. kultovní Beltine. Současnou sestavu tvoří rodák z Newcastlu Sean Barry, dále Jiří Podzimek a Robert Fischmann. Frontmanem skupiny je Václav Veselý, muzikant, který byl například členem formací ETC či Framus Five a spolupracoval s Michalem Prokopem, Vladimírem Mertou, houslistou Janem Hrubým a řadou dalších známých umělců. Vrcholem jeho práce jsou ale především dva projekty – kultovní rocková kapela Dobrohošť a pak zejména právě Irish Dew se svým úspěšným albem „Závist“ (podle keltského opida na Zbraslavi).    </p>",
+    "img": "irish-dew.png",
     "links:": {
-      "www": "https://www.bspb.cz/",
-      "facebook": "https://www.facebook.com/czechpipes"
+      "facebook": "https://www.facebook.com/irishdewcz/"
     }
   },
 
   {
-    "name": "Bran",
-    "slug": "bran",
-    "text": "<p> Další kapela, která přijala naše pozvání, je skupina Bran. Je už také dlouho na českém hudebním trhu a za dobu její existence se v její sestavě vystřídalo okolo třiceti muzikantů. Začátek a další existence je spojena s muzikantem a zpěvákem z Bretaně Davidem Pajotem. V prvních letech se repertoár skládal z písní a skladeb Bretaně, Irska a Skotska. Postupem doby se v repertoáru objevily autorské skladby členů kapely a více se celý repertoár začal orientovat na hudebnost Bretaně.</p><p>První album vydává v roce 2000 – tam je ještě hodně zastoupena irská hudba, ale už v druhém albu z roku 2002 (Chemins de sel) je výrazně zastoupená bretonská hudba a už i autorské písně (David Pajot). V tomto duchu se už nesou i další alba a to i poté, co kapelu opustil směr Kanada David Pajot (2010). Zatím poslední CD nahrála skupina Bran v roce 2016 (Beaj vat!) a hodně jsou zastoupeny autortské písně a skladby zejména Vojty Jindry a Roberta Fischmanna. </p>",
-    "img": "bran.jpg",
+    "name": " RÍ RA",
+    "slug": "ri-ra",
+    "text": "<p>V produkci skupiny Rí Ra se snoubí irské tradicionály a instrumentální skladby, lehce okořeněné funky přiznávkami a jazzovými vyhrávkami. Kapela se nedrží striktně harmonie a standardních postupů irské tradiční hudby, a i díky tomu je její hudba otevřena širokému obecenstvu.</p>",
+    "img": "ri-ra.jpeg",
     "links:": {
       "www": "http://branband.cz/",
-      "facebook": "https://www.facebook.com/kapelaBran/",
-      "youtube": "https://www.youtube.com/channel/UC-vpkSJ7DRNQ4mn1_lBGjQA"
+      "facebook": "https://www.facebook.com/riraband/",
+      "youtube": "  http://www.rira.cz/videos/",
+      "spotify": "https://open.spotify.com/artist/74uzr1b4Z3Wxwzm7hO52mw?si=P506IvwSRgGghxls0nyVNw",
+      "bandcamp": "https://riraband.bandcamp.com/",
+      "instagram": "https://www.instagram.com/riraband/"
     }
   },
 

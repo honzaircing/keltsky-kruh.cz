@@ -26,7 +26,6 @@ import { RouterLink, useRoute } from "vue-router";
     <Program />
     <Performers />
     <Ticket />
-    <AboutInfo />
     <Info />
     <Contact />
   </main>
