@@ -51,7 +51,7 @@ watch(
         <!-- <h1><a href="index.html">The<span>Event</span></a></h1>-->
         <h1>
           <a href="#" class="scrollto"
-            ><img src="@/assets/img/logo_kk_vertical.png" alt="" title=""
+            ><img src="@/assets/img/logo_kk_white.png" alt="" title=""
           /></a>
         </h1>
       </div>

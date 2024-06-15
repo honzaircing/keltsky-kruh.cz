@@ -6,6 +6,7 @@ import Ticket from "@/components/Ticket.vue";
 import Performers from "@/components/Performers.vue";
 import Info from "@/components/Info.vue";
 import Contact from "@/components/Contact.vue";
+import Plakat from "@/components/Plakat.vue";
 import { RouterLink, useRoute } from "vue-router";
 </script>
 <template>
@@ -23,9 +24,11 @@ import { RouterLink, useRoute } from "vue-router";
 
   <main id="main">
     <About />
+    <Plakat />
     <Program />
     <Performers />
     <Ticket />
+
     <Info />
     <Contact />
   </main>
