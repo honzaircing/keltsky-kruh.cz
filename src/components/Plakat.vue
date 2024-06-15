@@ -31,12 +31,12 @@ const {
         />
       </div>
 
-  
-        <div class="col-md-3">
+      <div class="row info-info">
+        <div class="col-md-12">
           <div class="info-email">
             <div class="venue-gallery">
               <img
-                src="@/assets/img/plakat.png"
+                src="@/assets/img/stanovani-300x225.jpg"
                 alt=""
                 class="img-fluid"
                 @click="show"
