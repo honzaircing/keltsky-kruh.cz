@@ -65,7 +65,7 @@
           <div class="card mb-5 mb-lg-0">
             <div class="card-body">
               <h5 class="card-title text-muted text-uppercase text-center">
-                Držitelé průkazu ZTP a ZTP/P
+                65+, studenti a karty ISIC a ITIC
               </h5>
               <h6 class="card-price text-center">270</h6>
               <hr />
