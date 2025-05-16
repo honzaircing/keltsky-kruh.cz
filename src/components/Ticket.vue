@@ -17,7 +17,10 @@
               <h5 class="card-title text-muted text-uppercase text-center">
                 Dospělí
               </h5>
-              <h6 class="card-price text-center">390 KČ</h6>
+              <h6 class="card-price text-center">350 KČ</h6>
+              <h5 class="card-title text-muted text-uppercase text-center">
+                na místě 390 KČ
+              </h5>
               <hr />
               <div class="text-center">
                 <a
@@ -43,6 +46,9 @@
                 Děti
               </h5>
               <h6 class="card-price text-center">100 KČ</h6>
+              <h5 class="card-title text-muted text-uppercase text-center">
+                na místě 100 KČ
+              </h5>
               <hr />
               <div class="text-center">
                 <a
@@ -67,7 +73,10 @@
               <h5 class="card-title text-muted text-uppercase text-center">
                 65+, studenti a karty ISIC a ITIC
               </h5>
-              <h6 class="card-price text-center">310</h6>
+              <h6 class="card-price text-center">270</h6>
+              <h5 class="card-title text-muted text-uppercase text-center">
+                na místě 310 KČ
+              </h5>
               <hr />
               <div class="text-center">
                 <a
@@ -92,7 +101,10 @@
               <h5 class="card-title text-muted text-uppercase text-center">
                 Rodina 2+1 / 2+2
               </h5>
-              <h6 class="card-price text-center">830 / 880</h6>
+              <h6 class="card-price text-center">750 / 800</h6>
+              <h5 class="card-title text-muted text-uppercase text-center">
+                na místě 830 / 880 KČ
+              </h5>
               <hr />
               <div class="text-center">
                 <a
@@ -112,3 +124,5 @@
     <!-- Pro Tier -->
   </section>
 </template>
+<script setup lang="ts">
+</script>
