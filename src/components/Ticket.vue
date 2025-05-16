@@ -17,9 +17,9 @@
               <h5 class="card-title text-muted text-uppercase text-center">
                 Dospělí
               </h5>
-              <h6 class="card-price text-center">350 KČ</h6>
+              <h6 class="card-price text-center">350 Kč</h6>
               <h5 class="card-title text-muted text-uppercase text-center">
-                na místě 390 KČ
+                na místě 390 Kč
               </h5>
               <hr />
               <div class="text-center">
@@ -45,9 +45,9 @@
               <h5 class="card-title text-muted text-uppercase text-center">
                 Děti
               </h5>
-              <h6 class="card-price text-center">100 KČ</h6>
+              <h6 class="card-price text-center">100 Kč</h6>
               <h5 class="card-title text-muted text-uppercase text-center">
-                na místě 100 KČ
+                na místě 100 Kč
               </h5>
               <hr />
               <div class="text-center">
@@ -73,9 +73,9 @@
               <h5 class="card-title text-muted text-uppercase text-center">
                 65+, studenti a karty ISIC a ITIC
               </h5>
-              <h6 class="card-price text-center">270</h6>
+              <h6 class="card-price text-center">270 Kč</h6>
               <h5 class="card-title text-muted text-uppercase text-center">
-                na místě 310 KČ
+                na místě 310 Kč
               </h5>
               <hr />
               <div class="text-center">
@@ -101,9 +101,9 @@
               <h5 class="card-title text-muted text-uppercase text-center">
                 Rodina 2+1 / 2+2
               </h5>
-              <h6 class="card-price text-center">750 / 800</h6>
+              <h6 class="card-price text-center">750 / 800 Kč</h6>
               <h5 class="card-title text-muted text-uppercase text-center">
-                na místě 830 / 880 KČ
+                na místě 830 / 880 Kč
               </h5>
               <hr />
               <div class="text-center">
