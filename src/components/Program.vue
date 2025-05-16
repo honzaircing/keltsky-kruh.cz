@@ -29,6 +29,14 @@
             </div>
           </div>
           <div class="row schedule-item">
+            <div class="col-md-2"><time>11:00 - 19:00</time></div>
+            <div class="col-md-10">
+              <h4>KELTSKÁ VESNICE, WORKSHOPY, STEZKA MALÉHO KELTA A DALŠÍ</h4>
+              <p>
+              </p>
+            </div>
+          </div>
+          <div class="row schedule-item">
             <div class="col-md-2"><time>12:00</time></div>
             <div class="col-md-10">
               <div class="speaker">
@@ -102,18 +110,62 @@
 
 
           <div class="row schedule-item">
-            <div class="col-md-2"><time>--</time></div>
+            <div class="col-md-2"><time>16:30</time></div>
             <div class="col-md-10">
               <div class="speaker">
-                <img src="@/assets/img/speakers/shannon.jpeg" alt="SHANNON" />
+                <img src="@/assets/img/speakers/lua.jpg" alt="LUA" />
               </div>
-              <h4>SHANNON</h4>
+              <h4>LUA</h4>
               <p></p>
             </div>
           </div>
 
           <div class="row schedule-item">
-            <div class="col-md-2"><time>--</time></div>
+            <div class="col-md-2"><time>17:30</time></div>
+            <div class="col-md-10">
+              <div class="speaker">
+                <img src="@/assets/img/speakers/calcedonia.jpg" alt="CALEDONIAN" />
+              </div>
+              <h4>CALEDONIAN CLUB (skotské tance)</h4>
+              <p></p>
+            </div>
+          </div>
+
+          <div class="row schedule-item">
+            <div class="col-md-2"><time>18:00</time></div>
+            <div class="col-md-10">
+              <div class="speaker">
+                <img src="@/assets/img/speakers/tune.jpg" alt="TUNE" />
+              </div>
+              <h4>TUNE.L</h4>
+              <p></p>
+            </div>
+          </div>
+
+          <div class="row schedule-item">
+            <div class="col-md-2"><time>19:00</time></div>
+            <div class="col-md-10">
+              <div class="speaker">
+                <img src="@/assets/img/speakers/calcedonia.jpg" alt="CALEDONIAN" />
+              </div>
+              <h4>CALEDONIAN CLUB VÝUKA + BLUE SQUADRON PIPE BAND</h4>
+              <p></p>
+            </div>
+          </div>
+
+          <div class="row schedule-item">
+            <div class="col-md-2"><time>19:35</time></div>
+            <div class="col-md-10">
+              <div class="speaker">
+                <img src="@/assets/img/speakers/malina.jpg" alt="malina" />
+              </div>
+              <h4>MALINA BROTHERS A KATEŘINA GARCIA</h4>
+              <p></p>
+            </div>
+          </div>
+
+          <div class="row schedule-item">
+            <div class="col-md-2"><time>20:35</time></div>
             <div class="col-md-10">
               <div class="speaker">
                 <img
@@ -121,7 +173,7 @@
                   alt="BLUE SQUADRON PIPE BAND"
                 />
               </div>
-              <h4>BLUE SQUADRON PIPE BAND</h4>
+              <h4>BLUE SQUADRON PIPE BAND + CALEDONIAN CLUB</h4>
               <p>
                 V roce 2018 se spojilo několik členů dudáckých kapel, s cílem
                 propagovat tradiční skotskou hudbu na úrovni, se kterou mohou
@@ -130,16 +182,7 @@
             </div>
           </div>
 
-          <div class="row schedule-item">
-            <div class="col-md-2"><time>--</time></div>
-            <div class="col-md-10">
-              <div class="speaker">
-                <img src="@/assets/img/speakers/poitin.jpeg" alt="POITÍN" />
-              </div>
-              <h4>POITÍN</h4>
-              <p></p>
-            </div>
-          </div>
+
 
           <div class="row schedule-item">
             <div class="col-md-2"><time>--</time></div>
@@ -152,19 +195,6 @@
             </div>
           </div>
 
-          <div class="row schedule-item">
-            <div class="col-md-2"><time>--</time></div>
-            <div class="col-md-10">
-              <div class="speaker">
-                <img
-                  src="@/assets/img/speakers/ohnova-show.jpeg"
-                  alt="OHNIVÁ SHOW (R. LŮŽEK)"
-                />
-              </div>
-              <h4>OHNIVÁ SHOW (R. LŮŽEK)</h4>
-              <p></p>
-            </div>
-          </div>
         </div>
         <!-- End Schdule Day 1 -->
       </div>

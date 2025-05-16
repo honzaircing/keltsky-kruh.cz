@@ -3,7 +3,7 @@
     <div class="container aos-init aos-animate" data-aos="fade-up">
       <div class="section-header">
         <h2>Vstupenky</h2>
-        <p></p>
+        <p>Předprodej končí 10. 7., poté budou vstupenky jen na místě za vyšší cenu.</p>
       </div>
 
       <div class="row">
