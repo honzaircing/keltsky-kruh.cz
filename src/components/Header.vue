@@ -84,15 +84,7 @@ watch(
               >Program</RouterLink
             >
           </li>
-          <li>
-            <RouterLink
-              to="/vystupujici"
-              class="nav-link scrollto"
-              active-class="active"
-              @click="mobilShow(false)"
-              >Vystupující</RouterLink
-            >
-          </li>
+
           <li>
             <RouterLink
               to="/informace"
