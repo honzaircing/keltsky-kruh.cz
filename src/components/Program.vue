@@ -28,53 +28,78 @@
               </p>
             </div>
           </div>
-
           <div class="row schedule-item">
-            <div class="col-md-2"><time>--</time></div>
-            <div class="col-md-10">
-              <div class="speaker">
-                <img src="@/assets/img/speakers/camna.jpeg" alt="ANDY WILLS" />
-              </div>
-              <h4>CAMNA</h4>
-              <p></p>
-            </div>
-          </div>
-
-          <div class="row schedule-item">
-            <div class="col-md-2"><time>--</time></div>
+            <div class="col-md-2"><time>12:00</time></div>
             <div class="col-md-10">
               <div class="speaker">
                 <img
-                  src="@/assets/img/speakers/ambiam.webp"
-                  alt="MICHAL HROMEK CONSORT"
+                    src="@/assets/img/speakers/ambiam.webp"
+                    alt="ambiam"
                 />
               </div>
-              <h4>AMBIAM (MARK JOHNSTON)</h4>
+              <h4>AMBIAM (ZUŠ ROUDNICE NAD LABEM)</h4>
               <p></p>
             </div>
           </div>
 
           <div class="row schedule-item">
-            <div class="col-md-2"><time>--</time></div>
+            <div class="col-md-2"><time>13:00</time></div>
             <div class="col-md-10">
               <div class="speaker">
-                <img src="@/assets/img/speakers/irish-dew.jpeg" alt="KUKULÍN" />
+                <img src="@/assets/img/speakers/logo_kk.png" alt="KK" />
               </div>
-              <h4>IRISH DEW</h4>
+              <h4>LITÍ BRONZU V KELTSKÉ VESNICI + UKÁZKY OVLÁDÁNÍ BIČE</h4>
+              <p></p>
+            </div>
+          </div>
+
+
+
+          <div class="row schedule-item">
+            <div class="col-md-2"><time>13:30</time></div>
+            <div class="col-md-10">
+              <div class="speaker">
+                <img src="@/assets/img/speakers/conamara-chaos.jpg" alt="conamara" />
+              </div>
+              <h4>CONAMARA CHAOS</h4>
               <p></p>
             </div>
           </div>
 
           <div class="row schedule-item">
-            <div class="col-md-2"><time>--</time></div>
+            <div class="col-md-2"><time>14:30</time></div>
             <div class="col-md-10">
               <div class="speaker">
-                <img src="@/assets/img/speakers/ri-ra.jpeg" alt="RÍ RA" />
+                <img src="@/assets/img/speakers/logo_kk.png" alt="KK" />
               </div>
-              <h4>RÍ RA</h4>
+              <h4>KELTSKÁ MÓDNÍ PŘEHLÍDKA, KELTSKO - ŘÍMSKÉ SOUBOJE POD PÓDIEM</h4>
               <p></p>
             </div>
           </div>
+
+
+          <div class="row schedule-item">
+            <div class="col-md-2"><time>15:00</time></div>
+            <div class="col-md-10">
+              <div class="speaker">
+                <img src="@/assets/img/speakers/potatoe.jpg" alt="POTATOES" />
+              </div>
+              <h4>A BAG OF POTATOES</h4>
+              <p></p>
+            </div>
+          </div>
+
+          <div class="row schedule-item">
+            <div class="col-md-2"><time>16:00</time></div>
+            <div class="col-md-10">
+              <div class="speaker">
+                <img src="@/assets/img/speakers/logo_kk.png" alt="KK" />
+              </div>
+              <h4>KELTSKÝ OBŘAD</h4>
+              <p></p>
+            </div>
+          </div>
+
 
           <div class="row schedule-item">
             <div class="col-md-2"><time>--</time></div>
@@ -147,3 +172,5 @@
   </section>
   <!-- End Schedule Section -->
 </template>
+<script setup lang="ts">
+</script>

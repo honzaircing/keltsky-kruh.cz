@@ -16,7 +16,7 @@ import { RouterLink, useRoute } from "vue-router";
       <h1 class="mb-4 pb-0">
         Trochu jiný festival “keltské” kultury<br /><span>Keltský kruh</span>
       </h1>
-      <p class="mb-4 pb-0">13. července 2024 - Vodní hrad Budyně nad Ohří</p>
+      <p class="mb-4 pb-0">12. července 2025 - Vodní hrad Budyně nad Ohří</p>
       <RouterLink to="/vstupenky" class="about-btn">Vstupenky</RouterLink>
     </div>
   </section>
