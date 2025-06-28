@@ -13,7 +13,7 @@ const {
   imgsRef,
 } = useEasyLightbox({
   // src / src[]
-  imgs: ["/src/assets/img/plakat.png"],
+  imgs: ["/src/assets/img/plakat.jpg"],
   // initial index
   initIndex: 0,
 });

@@ -24,6 +24,7 @@ import { RouterLink, useRoute } from "vue-router";
 
   <main id="main">
     <About />
+    <Plakat />
     <Program />
     <Ticket />
 

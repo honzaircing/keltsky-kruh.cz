@@ -56,7 +56,7 @@
               <div class="speaker">
                 <img src="@/assets/img/speakers/logo_kk.png" alt="KK" />
               </div>
-              <h4>LITÍ BRONZU V KELTSKÉ VESNICI + UKÁZKY OVLÁDÁNÍ BIČE</h4>
+              <h4>KOMENTOVANÁ PROHLÍDKA KELTSKÉ VESNICE + UKÁZKY OVLÁDÁNÍ BIČE</h4>
               <p></p>
             </div>
           </div>
@@ -80,7 +80,7 @@
               <div class="speaker">
                 <img src="@/assets/img/speakers/logo_kk.png" alt="KK" />
               </div>
-              <h4>KELTSKÁ MÓDNÍ PŘEHLÍDKA, KELTSKO - ŘÍMSKÉ SOUBOJE POD PÓDIEM</h4>
+              <h4>KELTSKÁ MÓDNÍ PŘEHLÍDKA, UKÁZKA VÁLEČNICTVÍ</h4>
               <p></p>
             </div>
           </div>
@@ -103,7 +103,7 @@
               <div class="speaker">
                 <img src="@/assets/img/speakers/logo_kk.png" alt="KK" />
               </div>
-              <h4>KELTSKÝ OBŘAD</h4>
+              <h4>OBŘAD</h4>
               <p></p>
             </div>
           </div>
@@ -126,7 +126,7 @@
               <div class="speaker">
                 <img src="@/assets/img/speakers/calcedonia.jpg" alt="CALEDONIAN" />
               </div>
-              <h4>CALEDONIAN CLUB (skotské tance)</h4>
+              <h4>CALEDONIAN CLUB  + BLUE SQUADRON PIPE BAND</h4>
               <p></p>
             </div>
           </div>
@@ -148,7 +148,7 @@
               <div class="speaker">
                 <img src="@/assets/img/speakers/calcedonia.jpg" alt="CALEDONIAN" />
               </div>
-              <h4>CALEDONIAN CLUB VÝUKA + BLUE SQUADRON PIPE BAND</h4>
+              <h4>CALEDONIAN CLUB VÝUKA SKOTSKÝCH TANCŮ</h4>
               <p></p>
             </div>
           </div>
@@ -185,12 +185,23 @@
 
 
           <div class="row schedule-item">
-            <div class="col-md-2"><time>--</time></div>
+            <div class="col-md-2"><time>21:15</time></div>
             <div class="col-md-10">
               <div class="speaker">
                 <img src="@/assets/img/speakers/claymore.webp" alt="CLAYMORE" />
               </div>
               <h4>CLAYMORE</h4>
+              <p></p>
+            </div>
+          </div>
+
+          <div class="row schedule-item">
+            <div class="col-md-2"><time>22:30</time></div>
+            <div class="col-md-10">
+              <div class="speaker">
+                <img src="@/assets/img/speakers/ohnova-show.jpeg" alt="ohňová show" />
+              </div>
+              <h4>OHNIVÁ SHOW</h4>
               <p></p>
             </div>
           </div>
