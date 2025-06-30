@@ -36,7 +36,7 @@ const {
           <div class="info-email">
             <div class="venue-gallery">
               <img
-                src="@/assets/img/plakat.png"
+                src="@/assets/img/plakat.jpg"
                 alt=""
                 class="img-fluid"
                 @click="show"
