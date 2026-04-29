@@ -26,7 +26,7 @@
                 <a
                   type="button"
                   class="btn"
-                  href="https://www.budyne.cz/kultura/vstupenky#/15"
+                  href="https://www.budyne.cz/kultura/vstupenky#/17"
                   target="_blank"
                 >
                   Koupit
@@ -54,7 +54,7 @@
                 <a
                   type="button"
                   class="btn"
-                  href="https://www.budyne.cz/kultura/vstupenky#/15"
+                  href="https://www.budyne.cz/kultura/vstupenky#/17"
                   target="_blank"
                 >
                   Koupit
@@ -82,7 +82,7 @@
                 <a
                   type="button"
                   class="btn"
-                  href="https://www.budyne.cz/kultura/vstupenky#/15"
+                  href="https://www.budyne.cz/kultura/vstupenky#/17"
                   target="_blank"
                 >
                   Koupit
@@ -110,7 +110,7 @@
                 <a
                   type="button"
                   class="btn"
-                  href="https://www.budyne.cz/kultura/vstupenky#/15"
+                  href="https://www.budyne.cz/kultura/vstupenky#/17"
                   target="_blank"
                 >
                   Koupit
