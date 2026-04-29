@@ -18,7 +18,7 @@
           class="col-lg-9 tab-pane fade show active"
           id="day-1"
         >
-        <!--
+          <!--
           <div class="row schedule-item">
             <div class="col-md-2"><time>10:00</time></div>
             <div class="col-md-10">
@@ -206,14 +206,13 @@
               <p></p>
             </div>
           </div>
-
+     -->
         </div>
-        -->
+
         <!-- End Schdule Day 1 -->
       </div>
     </div>
   </section>
   <!-- End Schedule Section -->
 </template>
-<script setup lang="ts">
-</script>
+<script setup lang="ts"></script>
